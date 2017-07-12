@@ -22,7 +22,6 @@ class alpha:
     myPageUrl = []
     text_file = open(r"C:\WorkAlpha\babylonienTexts\textsUrls.txt", "w")
     print(r"urls download: (to C:\WorkAlpha\babylonienTexts\textsUrls.txt)")
-
     prhelp = 1.0
 #   copy the urls and printing em to a txt file and to the screen
     names = ["archives-ebabbar","archives-eanna","archives-egibi","archives-nappahu","archives-murasu","autres-archives-privees"]
