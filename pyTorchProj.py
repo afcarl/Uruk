@@ -1,7 +1,7 @@
 from __future__ import print_function
 
-import torch
 import torch.autograd
+import torch.optim as optim
 
 from torch.autograd import Variable
 
@@ -52,16 +52,6 @@ def disp(W,b):
     return outString
 
 batch_size = 4
-'''
-def get_batch(count):
-    x = torch.Tensor(batch_size,7)
-    y = torch.Tensor(batch_size,1)
-    for i in range(0, batch_size):
-        y[i] = data[count + i][0]
-        x[i] = torch.Tensor(data[count + i][1])
-    return Variable(x), Variable(y)
-'''
-
 def get_batch(count):
     x = data[count:count+batch_size, 1:]
     y = data[count:count+batch_size, 0]
@@ -76,13 +66,14 @@ numberOfBatches = 80
 epoc = 0
 numberOfEpocs = 5
 counter = 0
+optimizer = optim.Adam(fc.parameters(), lr=0.001)
 while True:
     # Get data
     batch_x, batch_y = get_batch(counter)
     counter += batch_size
 
     # Reset gradients
-    fc.zero_grad()
+    optimizer.zero_grad()
 
     # Forward pass
     loss = torch.mean((fc(batch_x) - batch_y).pow(2))
@@ -91,16 +82,7 @@ while True:
     loss.backward()
 
     # Apply gradients
-    for param in fc.parameters():
-        param.data.add_(-0.01 * param.grad.data)
-    '''
-    # AdaGrad update
-    countHelp = 0
-    for param in fc.parameters():
-        cache[countHelp] += param.grad.data * param.grad.data
-        param.data.add_(-0.01 * param.grad.data / (torch.sqrt(cache[countHelp]) + 1e-7))
-        countHelp += 1
-    '''
+    optimizer.step()
 
     # Stop criterion
     if counter == numberOfBatches*batch_size:
@@ -114,7 +96,9 @@ a = loss[0]
 print(loss[0][0])
 print('Loss: ' + str(loss[0]) + " After " + str(numberOfBatches) + " batches")
 print('==> Learned function: ' + disp(fc.weight.data.view(-1), fc.bias.data.view(-1)))
-#help = []
-#for a in range(0,7):
-#    help.append(fc.weight.data.view(-1)[a] * divData[a] + meanData[a])
-#print('==> Actual function ' + disp(help, fc.bias.data))
+'''
+help = []
+for a in range(0,7):
+    help.append(fc.weight.data.view(-1)[a] * divData[a] + meanData[a])
+print('==> Actual function ' + disp(help, fc.bias.data))
+'''
