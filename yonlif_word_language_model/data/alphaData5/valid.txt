@@ -1,0 +1,3453 @@
+  NUM mašihi šá sattuk 
+  NUM NUM.NUM.NUM qa šegišì 
+  ina sattuk šá u<sub>four</sub> NUMkam 
+  árkitu<sub>four</sub> šá iti sig<sub>four</sub> 
+  šá  <NAME>  
+  ana  <NAME>  
+  epišnu sìna 
+  iti sig<sub>four</sub> u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal Kgaur 
+
+<ENDTOKEN>   NUM/NUM mana NUM NUM/NUM gín kùbabbar 
+  ana epešú šá kiittu<sub>four</sub> 
+  šá našáappu kùbabbar til 
+  šá d 
+   une ligne érasée 
+  ana  <NAME>  lú simug zabar 
+  sìna 
+  iti sig<sub>four</sub> u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal KI  
+  lugal kurkur 
+
+<ENDTOKEN>   NUM mašihi ina pappasu 
+  šá é d 
+   <NAME>  lú bahar<sub>two</sub> 
+   <UNK> su ina malaatu<sub>four</sub> 
+   <UNK>  zu <UNK> 
+   <UNK> <UNK>   <NAME>  
+  mu NUMkam 
+   <NAME>  
+  lugal kurkur 
+
+<ENDTOKEN>   zúlumma šá ina é nígga šá 
+  gú i<sub>seven</sub> KI  sì  iti gan u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal KI  
+  lugal kurkur 
+   <BRK>  
+  NUM gur ana muhhi 
+   <NAME>  ana 
+   <NAME>  a  <NAME>  
+  sìna 
+   <BRK>  
+
+<ENDTOKEN>   NUM gín kùbabbar ina pappasu lú ušbarútu 
+  ana  <NAME>  sìna 
+  elat kùbabbar igiú 
+  NUM gín kùbabbar ina sattuk lú lungatu 
+  šá é d ana 
+   <NAME>  
+  elat <UNK> gín kùbabbar igiú 
+  NUM gín kùbabbar ana NUM NUM.NUM šebar 
+  ina sattuk lú mutu šá é 
+  d šá iti bár 
+  ana  <NAME>  a  <NAME>  sìna 
+  iti bár u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal K  lugal kurkur 
+
+<ENDTOKEN>   NUM NUM/NUM mana NUM NUM/NUM gín kùbabbar  <NAME>  
+  ù  <NAME>  lú šá muhhi NUMmeš 
+  ittannu elat  kùbabbar šá ina šuII 
+   <NAME>  našáʾa ina lìbbi 
+  NUM/NUM mana kùbabbar ana  <NAME>   
+  u lú erin<sub>two</sub>meššú lúsipameš anšekurra 
+  ina rikis murub’ šá mu NUMkam  <UNK>  
+  NUM mana NUM NUM/NUM gín kùbabbar ina šám 
+  gu<sub>four</sub>meššú u udunita<sub>two</sub>meššú ana  <UNK>  
+   <NAME>  lú damgàr udunita<sub>two</sub> 
+  nadin iti zíz u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal Kgaur 
+
+<ENDTOKEN>   NUM gu<sub>four</sub> ninda<sub>two</sub>  <BRK>  
+  ina é úree  <BRK>  
+  ana NUM gín kùbabbar ana 
+   <NAME>  sìna 
+   <BRK>  sìna 
+   <BRK>  ana 
+  nígga inamdinnu 
+  iti gan u<sub>four</sub> NUMNUMlákam 
+  mu NUMkam <NAME>  
+  lugal KI  luur
+<ENDTOKEN>   NUM gur zúlumma gamrutu 
+  ina UDNUNME <NAME>  
+  šá ina muhhi quuppu ina qíbi 
+  šá  <NAME>  ašú šá  <NAME>  
+  a lú KI  u<</sup>  <NAME>  
+  ašú šá  <NAME>  mahiir 
+  lú mukinnu  <NAME>  ašú šá 
+   <NAME>  a lú galdù 
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>  
+  lú umbisag  <NAME>  ašú šá  <NAME>  a lú gírlá 
+  uru d i<sub>seven</sub> palakkatu<sub>four</sub> iti šegur<sub>ten</sub>ku<sub>five</sub> 
+  u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal Kku  NUM entaàm 
+  iltequú 
+
+<ENDTOKEN>   iti šu u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal KI  luur
+<ENDTOKEN>   NUM NUM/NUM mana síg <BRK>  
+  kilá kusitu<sub>four</sub> šá d KI  
+  en biirma 
+   <NAME>  
+  ittadin 
+  iti gu<sub>four</sub> u<sub>four</sub> NUMkam 
+  mu NUMkam 
+   <NAME>  
+  lugal Kgaur 
+
+<ENDTOKEN>    <BRK>  
+   <NAME>  a  <BRK>  
+  sìna kùbabbar igiú 
+  e  <UNK>  NUM/NUM mana kùbabbar 
+   <BRK>  
+   <BRK>  
+  iti še u<sub>four</sub> NUMkam mu NUMkam 
+   NUM" 
+   <NAME>  lugal KI  
+  lugal kurkur 
+   NUM" 
+  NUM NUM pi šebar ina malaatu<sub>four</sub> 
+  šá lú tur údee <UNK> ana 
+   NUM" 
+   <NAME>  a  <NAME>  
+   <BRK>  
+
+<ENDTOKEN>   epeš nìka<sub>nine</sub> <BRK>  
+  šá mu NUMkam  <BRK>  
+   <BRK>  
+  NUM me NUM gur šebar ana  <NAME>   <BRK>  
+  NUM gur šebar ana ugu <BRK>  
+   <BRK>  ana  <NAME>  
+   <BRK>  ana  <UNK> <UNK>   <BRK>  
+   <BRK>  šá ana  <NAME>  ašú šá  <NAME>  
+   <BRK>  <UNK> šebar ina sat šá é d 
+  ana muhhi  <NAME>  
+  NUM gur  <BRK> rihaata šá  <NAME>  
+  a  <NAME>  
+  NUM me NUM gur kurum<sub>six</sub> lú tillagídda 
+  lú  <UNK> <UNK> <UNK>  birki šà šá uru  <BRK>  
+  NUM gur šebar ina sattuk šá d šá iti bár 
+  mu NUMkam ana  <NAME>  sìna 
+  pap NUM me NUM gur NUM.NUM šebar it <BRK>  
+  NUM gur NUM.NUM šebar rehiit <BRK>  
+   <BRK> muš 
+
+<ENDTOKEN>   im  <NAME>  
+   <NAME>   <NAME>  
+  lú umbisagmeš ù  <NAME>  
+  lú se  ana 
+   <NAME>  lú šá muh 
+  eš dingirmeš šu 
+  liq NUM me NUM gur  <UNK> <UNK> <UNK> <UNK>  
+  ana muhhi  <NAME>  
+  lú en  <UNK> <UNK> <UNK> <UNK> <UNK>  
+  ana  <NAME>  dumu šá 
+   <NAME>  idin iti gan 
+  u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal KI  
+  lugal kurkur 
+
+<ENDTOKEN>    <BRK>  
+  pirsu reštuú kima libiršú sarma baru ù uppuuš 
+  ṭuppi  <NAME>  ašú šá  <NAME>  
+  dumu  <NAME>  qaat  <NAME>  ašú šá 
+   <NAME>  dumu  <NAME>  KI  
+  iti  <BRK>  u<sub>four</sub> NUMkam mu NUMkam  <NAME>  lugal K  u kurkur 
+
+<ENDTOKEN>   šebar šá ana kiissat <BRK>  
+  iti zíz u<sub>four</sub> NUMkam mu sag namlugalla kuraáš <BRK>  
+   <BRK>  
+  NUM gur kiissat gu<sub>four</sub>meš  <NAME>  
+  NUM gur NUM.NUM kiissat uzturmušen 
+  NUM gur kiissat ku<sub>four</sub>sikilmušen pap NUM gur NUM.NUM 
+   <NAME>  šá émušen 
+  NUM gur  NUM pi rehiit kiissat udunita<sub>two</sub> šá iti zíz 
+   <NAME>  u  <NAME>  šá é udunita<sub>two</sub> 
+  pap NUM gur NUM.NUM kiissat iti zíz 
+
+<ENDTOKEN>   šebar šá ta é nígga 
+  galú šá muhhi i<sub>seven</sub> KI  
+  ina kiissat iti zíz sìnaat 
+  iti zíz u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal KI  luur  NUM gur ina kimin gu<sub>four</sub>meš ana 
+   <NAME>  elat igitu<sub>four</sub> 
+  NUM gur ina kimin udunita<sub>two</sub> 
+  ana  <NAME>  elat igitu<sub>four</sub> 
+  sìna pap NUM gur šebar 
+  adi kiissat iti zíz sìna 
+
+<ENDTOKEN>   šebar mišil ešruú šá itti lú errešee 
+  iti gu<sub>four</sub> u<sub>four</sub> NUMkam mu NUMkam  <NAME>  lugal K   <BRK>  
+  NUM gur <NAME>  
+   <BRK>  
+  NUM gur NUM.NUM <NAME>  
+   <BRK>  
+  NUM gur <NAME>  
+   <BRK>  
+  NUM gur <NAME>  
+   <BRK>  
+  NUM gur NUM.NUM <NAME>  
+   <BRK>  
+  pap NUM me NUM gur NUM.NUM šebar hala 
+  šá lú errešee ina igi  <NAME>  
+   <BRK>  
+  NUM NUM.NUM.NUM qa sahlee hala 
+
+<ENDTOKEN>   udunita<sub>two</sub> šukultu<sub>four</sub> šá lú sipameš 
+  šá  <NAME>  ašú šá  <NAME>  
+  ana ébabbarra iddinnu iti kin NUMkam 
+  u<sub>four</sub> NUMkam mu NUMkam  <NAME>  lugal Kgaur 
+   <BRK>  
+  NUM udunita<sub>two</sub> lahri  <NAME>  ašú šá  <NAME>  
+  NUM udunita<sub>two</sub> lahri  <NAME>  ašú šá  <NAME>  
+  NUM udunita<sub>two</sub> lahri  <NAME>  ašú šá  <NAME>  
+  NUM udunita<sub>two</sub> lahri  <NAME>  ašú šá  <NAME>  
+  NUM udunita<sub>two</sub> lahri  <NAME>  ašú šá  <NAME>  
+  NUM udunita<sub>two</sub> lahri  <NAME>  ašú šá  <NAME>  
+  pap NUM udunita<sub>two</sub> ana sattuk ina pani 
+   <NAME>  ašú šá  <NAME>  
+  NUM udunita<sub>two</sub> máš  <NAME>  ašú šá  <NAME>  
+  ittadin udunita<sub>two</sub> ina é úree  
+  ina igi  <NAME>  
+
+<ENDTOKEN>   NUM gur šebar  <BRK>  
+  uru tuna <BRK>  
+  ittadin  <NAME>  
+  šá garin du<sub>six</sub> qaquullu 
+  ina gubzu šá  <NAME>  
+  ana  <NAME>  u  <NAME>  
+  lú engarmeš sìin 
+  šebar nígga d šá lú errešee 
+  šá ina ašàmeš šá d šá garin raqqátd 
+  ina é nígga ina KI  
+  mašhatu<sub>four</sub> iti apin u<sub>four</sub> <UNK>kam 
+  mu NUMkam  <NAME>  
+  lugal Kgaur 
+
+<ENDTOKEN>   šebar imitti nígga d šá i<sub>seven</sub> pallukát 
+  iti gu<sub>four</sub>  u<sub>four</sub> NUMkam mu NUMkam  <NAME>  lugal K   <BRK>  
+  NUM NUM.NUM en NUMpap NUM gur  <NAME>  
+   <BRK>  
+  NUM gur NUM piNUM en NUMpap NUM gur NUM pi  <NAME>  
+   <BRK>  
+  NUM piNUM en NUMpap NUM gur NUM pi  <NAME>  
+   <BRK>  
+  NUM NUM.NUM en NUMpap NUM gur NUM.NUM  <NAME>  
+   <BRK>  
+  NUM NUM.NUM en NUM NUM gur NUM pi  <NAME>  
+   <BRK>  
+  NUM gur šebar  <NAME>  
+   <BRK>  
+  pap NUM gur NUM.NUM šebar  <NAME>  sagdu gur<sub>seven</sub> 
+   <BRK>  
+  NUM gur šebar  <NAME>  
+   <BRK>  
+  NUM gur NUM piNUM en NUMpap NUM gur NUM.NUM  <NAME>  
+   <BRK>  
+  NUM gur <NAME>  
+   <BRK>  
+  NUM gur NUM.NUM en NUMpap NUM gur  <NAME>  pap NUM NUM pi  <NAME>  
+   <BRK>  
+  NUM NUM.NUM qaNUM en NUMpap NUM gur NUM.NUM  <NAME>  
+   <BRK>  
+  NUM gur NUM.NUM.NUM qaNUM en NUMpap NUM gur NUM.NUM.NUM qa  <NAME>  
+   <BRK>  
+  NUM NUM.NUM en NUM NUM/NUMúpap NUM gur NUM.NUM  <NAME>  
+   <BRK>  
+  NUM NUM.NUM  <NAME>  
+   <BRK>  
+  NUM NUM.NUM en NUMpap NUM gur NUM.NUM  <NAME>  
+   <BRK>  
+  pap NUM gur NUM pi  <NAME>  sagdu gur<sub>seven</sub> 
+   <BRK>  
+  NUM gur NUM.NUM NUM en NUM NUM/NUM pap NUM NUM/NUM pap NUM gur NUM.NUM 
+   <NAME>  
+   <BRK>  
+  NUM gur NUM pi NUM en NUMpap NUM gur NUM pi 
+   <NAME>  
+   <BRK>  
+  NUM piNUM en NUMpap NUM gur NUM pi  <NAME>  
+   <BRK>  
+  NUM gur šebar  <NAME>  
+   <BRK>  
+  pap NUM gur NUM  <NAME>  sagdu gur<sub>seven</sub> 
+   <BRK>  
+  NUM gurNUM en NUMpap NUM gur  <NAME>  
+   <BRK>  
+  NUM gur šebar  <NAME>  
+   <BRK>  
+  NUM gur NUM.NUM en NUMpap NUM gur NUM.NUM  <NAME>  
+   <BRK>  
+  NUM pi.NUM.NUM qaNUM en NUM NUM/NUM pap NUM gur NUM.NUM  <NAME>  
+   <BRK>  
+  NUM gur šebar  <NAME>  
+   <BRK>  
+   <BRK> pap NUM gur  <NAME>  
+   <BRK>  
+   <UNK> gur sahlee  <NAME>  
+  pap NUM gur NUM.NUM  <NAME>  sag gur<sub>seven</sub> 
+   <BRK>  ina šà NUM gur NUM.NUM taptuú 
+   <BRK>   <UNK> NUM  NUM gur NUM.NUM šebar 
+
+<ENDTOKEN>   <UNK> <UNK>.NUM.NUM qa nindahá ana 
+  lú ummannu šá ta KI  
+  illikunu idin 
+  iti gu<sub>four</sub> u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal KI  
+  lugal kurkur 
+
+<ENDTOKEN>   NUM gur NUM.NUM šebar ta irbi 
+  ana kurum<sub>six</sub>há NUM lú erin<sub>two</sub>meš 
+  šá itti giš šá lú umbisagmeš 
+  ana imittu<sub>four</sub> ana K  u birtu<sub>four</sub> šá  <NAME>  
+  illiku sìna 
+  iti kin u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal KI  luur
+<ENDTOKEN>   NUM mana NUM gín kùbabbar 
+  ana pitequ ina šuII 
+   <NAME>  u  <NAME>  
+  ana pitequ šubuul 
+  iti ab u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal KI  lugrk
+<ENDTOKEN>    <BRK> malaatu<sub>four</sub> šá qíme šá mihir 
+   <BRK>   <UNK> <UNK> tu šá kágali 
+  šá  <NAME>  ašú šá  <NAME>  a lú šitim 
+  šá ta iti sig<sub>four</sub> u<sub>four</sub> NUM mu NUMkam adi u<sub>four</sub> NUMkam 
+  iti sig<sub>four</sub> mu NUMkam  <NAME>  lugal Kgaur 
+   <UNK>  mu nìka<sub>nine</sub> epšú iti sig<sub>four</sub> u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  lugal KI  luur   <UNK>  mašihu  <UNK> <UNK> kiru šá kágali 
+  mu NUMkam  <NAME>  eṭir 
+  <UNK> NUM mašihu šá sattuk rehi malaatu<sub>four</sub> 
+  šá mihir šá  <NAME>  šá ta iti sig<sub>four</sub> u<sub>four</sub> NUMkam 
+  mu NUMkam adi iti sig<sub>four</sub> u<sub>four</sub> NUMkam mu NUMkam 
+  ina lìbbi <UNK> NUM mašihu mišil šá ina epeš nìka<sub>nine</sub> igiú  <NAME>  
+  NUM gur  <UNK> zúlumma ana NUM mašihu  <NAME>  
+  šá kurum<sub>six</sub>há lugal ana ugu  <NAME>  iti ab u<sub>four</sub> NUMkam mu NUMkam 
+   <UNK> mana síghá ana NUM mašihu iti še dirig u<sub>four</sub> NUMkam 
+   <UNK> mašihu ta é nígga <UNK>  iti bár u<sub>four</sub> NUMkam mu NUMkam 
+   <UNK> mana síghá ana NUM mašihu 
+   <UNK> gur zúlumma ana NUM mašihu  <NAME>  
+   <BRK> u<sub>four</sub> <UNK> NUMkam mu NUMkam 
+   <BRK> qu  <BRK>  <UNK> mašihu mišil 
+   <BRK>  
+   <BRK> kurum<sub>six</sub>há lugal  <BRK>  
+   NUM’ 
+   <BRK> kurum<sub>six</sub>há lú nugiš šá mu NUMkam 
+   <BRK>  kurum<sub>six</sub>há lú nugiš 
+   NUM’ 
+   <BRK> há 
+   <BRK> <UNK> NUM mašihu zízàm 
+   NUM’ 
+  NUM NUM.NUM šegišì šá mihir šá u<sub>four</sub> NUMkam 
+  šá iti gan  <NAME>  a <NAME>  eṭir 
+
+<ENDTOKEN>   zúlumma irbi nígga d 
+  šá garin eniqbi iti ab mu NUMkam 
+   <NAME>  lugal Kgaur 
+   <BRK>  
+  NUM me gur  <NAME>  u lú lungameš 
+  NUM gur ina pappasu  <NAME>  
+  NUM gur ina pappasu  <NAME>  
+  NUM gur ina kurum<sub>six</sub>há lú nédu<sub>eight</sub>  <NAME>  
+  NUM gur NUM pi zúlumma ana 
+  NUM mana kùbabbar  <NAME>  lú šitim 
+  ana dullu šá mušánitu<sub>four</sub> šá eniqbi 
+  NUM gur ana NUM mana NUM gín kùbabbar 
+  ana dullu šá mušánitu<sub>four</sub> NUMú ká 
+  NUM gur ana asnée  <NAME>  
+  NUM NUM.NUM šádidee giš 
+  šá giš hata <UNK> <UNK>   NUM <UNK> gur u<sub>four</sub>mu šá é máš 
+   <BRK>  
+  NUM gur NUM pi maakkasu 
+  NUM gur NUM pi sissinnu 
+  NUM gur  <NAME>  lú gúgal 
+  NUM gur NUM.NUM gimir 
+  pap NUM me NUM gur NUM pi 
+   <NAME>  u lú erin<sub>two</sub>meššú ittaannu 
+   <UNK> gur NUM pi ina igišúnu rehi 
+   <NAME>  inammahar elat 
+  zúlumma šá KI  nìb>>  <BRK>  
+  itti  <NAME>  ul épšú 
+
+<ENDTOKEN>   amirtu<sub>four</sub> šá inbi 
+  šá uru eššú šá ina gú i<sub>seven</sub> lú agrig 
+  nígga d iti šu u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  lugal KI  /  k
+   <BRK>  
+  NUM pigiš 
+  NUM gur NUM.NUMgiš 
+  NUM me giš 
+  ina igi  <NAME>  
+  NUM lim giš 
+  ina igi  <NAME>  
+  hala  <BRK>  
+   <BRK>  
+  NUM gur NUM.NUM 
+  NUM lim NUM  <BRK>  
+  šá  <BRK>  
+   <BRK>  
+
+<ENDTOKEN>   ina naášpirtu<sub>four</sub> šá  <NAME>  
+  lú umbisag KI  <s</si <BRK>  
+  ašú šá  <NAME>  NUM gur  <BRK>  
+  ina muhhi re šá eš ina šuII  <NAME>  
+  ašú šá  <NAME>  ina ugu ú <BRK>  
+  mahhir 
+  lú mukinnu  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  anšekurra  <NAME>  
+  ašú šá  <NAME>  lú umbisag  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  KI  it u</sub> NUMkam 
+  mu NUMkam kuraáš lugal K  lugal kurkur 
+
+<ENDTOKEN>   dullu peṣuú šá lubuuštu<sub>four</sub> šá u<sub>four</sub> NUMkam šá iti du<sub>six</sub> 
+  šá  <NAME>  lú qalla šá  <NAME>  lú lú ušbar 
+  munu iti du<sub>six</sub> u<sub>four</sub> NUMkam mu NUMkam  <NAME>  lugal Kgaur 
+   <BRK>  
+   <UNK>  mana kilá túghá šá d elat NUM/NUM mana síg zagìnkurra 
+   <UNK>  mana kilá túg máš šá d 
+   <UNK> mana kilá NUM túg nígíblámeš šá d 
+   <UNK> mana kilá túghá pársigga šá d 
+   <UNK> mana NUM/NUM gín kilá NUM túgúrmeš šá d 
+   <BRK>  
+   <UNK> mana kilá NUM túg nígíblámeš šá d 
+   <BRK>  
+   <UNK> mana kilá NUM túg nígíblámeš šá d KI  
+   <BRK>  
+   <UNK> mana kilá NUM túg nígíblámeš šá d 
+   <BRK>  
+   <UNK> mana kilá NUM túg máš šá d 
+   <UNK> mana NUM/NUM gín NUM túg dirig ittadin 
+  gada tenuú šá iti du<sub>six</sub> ana  <NAME>  lú azalag sìna 
+   <UNK> gada šalhu NUM gada hulanu NUM túg pársig síg hémeda 
+   <UNK> gada gúhalṣu NUM túgmáš ana d 
+   <BRK>  
+   <UNK>  gada šalhu NUM túg gúè síg hémeda NUM et túg gúè birmu 
+   <UNK>  túgbarsimeš NUM et túg GEŠTIN síg hémeda ana d 
+   <BRK>  
+   <UNK>  gada šalhu NUM túg gúè síg hémeda NUM kusitu<sub>four</sub> síg hémeda 
+  ana d 
+   <BRK>  
+   <UNK>  gada šalhu NUM gada hulanu NUM gada gúhalṣu NUM túg murub<sub>four</sub>íblá síg hémeda 
+   <UNK>  túg íblá ana d 
+   <BRK>  
+   <UNK> gada šalhu NUM túg gúè síg hémeda NUM túghá ana d KI  
+   <BRK>  
+   <UNK> gada šalhu NUM túg gúè síg hémeda NUM túg hulanu síg hémeda 
+   <UNK> <UNK> síg hémeda NUM túghá murub<sub>four</sub> NUM túghá síg hémeda urmah 
+   <UNK> <UNK> <UNK>  <UNK> NUM túgbarsimeš ana d 
+   <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>  NUM kusitu<sub>four</sub>síg hémeda ana d <UNK>  
+   <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>  túgíblá NUM túg murub<sub>four</sub>tu<sub>four</sub> síg hémeda ana d 
+   <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>  <UNK> NUM kusitu<sub>four</sub>kimin ana d 
+
+<ENDTOKEN>   NUM gur NUM.NUM šebar ana 
+  kiissatu<sub>four</sub>udunita<sub>two</sub> 
+   <NAME>  ina kágali 
+  mahir iti gu<sub>four</sub> 
+  u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal KI  luur
+<ENDTOKEN>   NUM me NUM giš luriindu 
+  nígga d šá šuII  <NAME>  
+  lú galdùmeš ina ugu  <NAME>  
+  u  <NAME>  ameš 
+  šá  <NAME>  a  <NAME>  
+  ina iti du<sub>six</sub> inamdinnu 
+  NUM en puut NUMi našuú 
+  lú mukinnu  <NAME>  ašú šá 
+   <NAME>  a lú sanga d 
+   <NAME>  ašú šá  <NAME>  
+  a lú gán lú umbisag  <NAME>  
+  ašú šá  <NAME>  KI  
+  iti apin u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal Kku
+<ENDTOKEN>   dullu babbarú šá lubuuštu<sub>four</sub> šá iti bár 
+  iti bár u<sub>four</sub> NUMkam mu NUMkam  <NAME>  lugal KI l  
+   <BRK>  
+  NUM mana kilá túghá šá d 
+  NUM mana kilá túghá ṣib šá d 
+  NUM mana kilá túghá me:sag šá d 
+  NUM mana NUM/NUM gín ki NUM túgúrmeš šá d 
+  NUM mana NUM/NUM gín kilá NUM túg íblámeš šá d 
+  NUM mana kilá NUM gín túg íblámeš šá d 
+  <UNK> mana kilá túghá šá d 
+   <UNK> mana kilá túg ṣibtu<sub>four</sub> šá d 
+   <UNK> mana kilá NUM gín túg íblámeš šá d 
+   <UNK> mana kilá túghá šá d u d 
+
+<ENDTOKEN>   im  <NAME>  ana 
+   <NAME>  
+  d u d šulumka liq 
+  NUM NUM.NUM qéme ana lú ummannu idin 
+  ù minamma ul talkamma 
+  šebar ul taášši 
+  iti sig<sub>four</sub> u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  lugal KI  
+  lugal kurkur qéme kurum<sub>six</sub>há 
+  u<sub>four</sub> NUMkam šá iti sig<sub>four</sub> iṭirra 
+
+<ENDTOKEN>    <NAME>  ašú šá  <NAME>  
+  lú paqudu šá uru šahriinni 
+  šá u<sub>four</sub> NUMkam šá iti še mu NUMkam  <NAME>  
+  lugal Kgaur ana  <NAME>  
+  lú sanga KI  iqmm   <NAME>  ašú šá  <NAME>  ina éia 
+  aṣṣabat umma šeš adka u lú paqudu 
+  šá uru anaku minamma šuII ana muhhiiá 
+  taadka  <NAME>  ašú šá  <NAME>  
+   <NAME>  u  <NAME>  šešmeššú 
+   <NAME>  ašú šá  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+  u  <NAME>  ašú šá  <NAME>  kii 
+  illammanu giš ittabalʾu 
+  u ana éia kii irbunu itterunu 
+  NUM mana kùbabbara ittašuú lú mukinnu 
+   <NAME>  ašú šá  <NAME>   <NAME>  
+  ašú šá  <NAME>   <NAME>  ašú šá  <NAME>  
+   <NAME>  ašú šá  <NAME>   <NAME>  
+  ašú šá  <NAME>  lú umbisag  <NAME>  ašú šá  <NAME>  
+  a  <NAME>  KI  itu</sub> NUMkam 
+  mu NUM  <NAME>  lugal Kgar 
+   <NAME>  u  <NAME>  
+  ina qíbi šá  <NAME>  
+
+<ENDTOKEN>    <BRK>  
+  iti bár  <BRK>  
+   <BRK>  
+   NUM’ 
+  NUM gur NUM šenumun <BRK>  
+  NUM NUM šenumun NUM gur  <BRK>  
+   NUM’ 
+  NUM gur NUM en NUM NUM gur  <NAME>  
+  NUM gur NUM en NUM NUM gur 
+   NUM’ 
+  NUM gur NUM pi NUM en NUM NUM gur NUM pi 
+  NUM gur NUM pi NUM en NUM NUM gur 
+   NUM’ 
+  NUM gur NUM pi šenumun halqa 
+  NUM gur NUM pi la épšu 
+   NUM’ 
+  pap NUM gur NUM pi šenumun pap NUM me NUM NUM.NUM šebar 
+   <NAME>  ašú šá  <NAME>  
+   NUM’ 
+  šá  <NAME>  
+   <BRK>  
+  NUM gur NUM en  <BRK>  
+   <BRK>  
+
+<ENDTOKEN>   šebar šá ina é nígga ina sattuk šá iti bár 
+  ana  <NAME>  u <NAME>  mumeš sìna 
+  iti <UNK> u<sub>four</sub> <UNK>kam mu NUMkam  <NAME>  lugal Kgaur 
+   <BRK>  
+  <UNK> mašihu sattuk é d  <UNK> <UNK> <UNK>  
+  <UNK> mašihu sattuk é d ina igi  <NAME>  
+   <BRK>  <UNK> mašihu sattuk é d  <NAME>  
+   <BRK> <UNK> mašihu kimin é d  <NAME>  
+  <UNK> mašihu kimin é d  <NAME>  u  <NAME>  
+  <UNK> mašihu kimin šá bita šá d sippar  <NAME>  
+   <BRK>  <UNK> NUM mašihu sattuk šá <UNK> <UNK> <UNK> meš 
+   <BRK>  
+   <BRK>  kimin  <BRK>  
+   NUM’ 
+   <BRK>   <NAME>   <BRK>  
+   <BRK> kimin NUM  <BRK>  
+   NUM’ 
+   <BRK>  mašihu šá  <NAME>  
+   <BRK> papa u  <NAME>  
+   NUM’ 
+   <BRK>  šá iti izi mu NUMkam 
+   <BRK> igi  <NAME>  
+
+<ENDTOKEN>   NUM NUM.NUMd 
+  NUM NUM.NUMd KI  
+  NUM NUM.NUMd 
+  NUM NUM.NUMd 
+  NUM NUM.NUMd u d 
+  NUM  <UNK> d 
+
+<ENDTOKEN>   NUM  <BRK> .. 
+   <BRK>  
+   <BRK>  
+  a  <NAME>   <BRK> .. 
+  NUM NUM.NUM.NUM qa  <UNK> šebar 
+  ana  <NAME>  
+  epiššánu šá  <NAME>  
+  sìna iti še u<sub>four</sub> NUMkam 
+  mu sag namlugalla 
+   <NAME>  
+  lugal KI  luur
+<ENDTOKEN>   NUM gur NUM.NUM šebar  <BRK>  
+  malatu<sub>four</sub> é d šá mu NUMkam 
+   <NAME>  ašú šá  <NAME>  
+  eṭir NUM gur NUM.NUM šebar malatú 
+   <NAME>  šá mu NUMkam 
+   <BRK>  
+   <UNK> <UNK>  ziqqurratú šá mu NUMkam 
+   NUM’ 
+  ina lìbbi NUMta šá iti apin iti še 
+  mu sag namlugalla 
+   NUM’ 
+   <NAME>  ašú šá  <NAME>  
+  eṭir iti gu<sub>four</sub> u<sub>four</sub> NUMkam 
+   NUM’ 
+  mu NUMkam  <NAME>  
+  lugal KI  luur   NUM’ 
+  lugal  <BRK>  
+
+<ENDTOKEN>   zúlumma zaglu šá lú galdùmeš 
+  šá du<sub>six</sub>hiillitu<sub>four</sub> iti kin u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  lugal KI  
+   <BRK>  
+  NUM gur <NAME>  ašú šá  <NAME>  
+   <BRK>  
+  NUM gur <NAME>  
+   <BRK>  
+  NUM gur <NAME>  
+   <BRK>  
+  NUM gur <NAME>  
+   <BRK>  
+  NUM gur <NAME>  
+   <BRK>  
+  NUM gur <NAME>  u  <NAME>  
+   <BRK>  
+  NUM gur <NAME>  a  <NAME>  
+   <BRK>  
+  NUM gur <NAME>  a  <NAME>  
+   <BRK>  
+  NUM gur <NAME>  a  <NAME>  
+   <BRK>  
+  NUM gur <NAME>  u šešmeššú 
+   <BRK>  
+  NUM gur  <NAME>  a  <NAME>  
+   <BRK>  
+  NUM gur <NAME>  a  <NAME>  
+   <BRK>  
+  NUM gur <NAME>  a  <NAME>  
+   <BRK>  
+  NUM gur <NAME>  a  <NAME>  
+   <BRK>  
+  pap NUM me NUM gur zúlumma ina  <UNK> <UNK>  
+
+<ENDTOKEN>   NUM/NUM gín NUMtú kùbabbar  <NAME>  ašú 
+  šá  <NAME>  a  <NAME>  
+  ana dullu šá  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  ina šuII  <NAME>  ašú šá  <NAME>  
+  dumu  <NAME>  
+  ana muhhi 
+   <NAME>  naši 
+  lú mukinnu  <NAME>  ašú 
+  šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá 
+   <NAME>  
+  a  <NAME>  u lú umbisag 
+   <NAME>  ašú šá 
+   <NAME>  šuII a  <NAME>  
+  Ki <sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal K
+<ENDTOKEN>    <UNK>  mana kùbabbar ina kùbabbar šá idi émeš 
+   <NAME>  ana ébabbarra 
+  ittadin ina gubzu 
+  šá  <NAME>  lú sanga KI  
+   <NAME>  ašú šá  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+  kùbabbar šá ana mušen:ku<sub>four</sub> tur 
+  ana  <NAME>  u  <NAME>  
+  šá é iṣṣur sìin 
+  iti ab u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal KI  
+
+<ENDTOKEN>   kupur ù ittuú šá ana dullu 
+  iti gu<sub>four</sub> mu NUMkam  <NAME>  
+  lugal Kgaur  <NAME>  u  <NAME>  
+  ina šuII  <NAME>  mahir 
+  NUM me NUM gúun esir<sub>two</sub> ina šuII  <NAME>  
+  iti bár u<sub>four</sub> NUMkam 
+  NUM gúun ina šuII  <NAME>  
+  ašú šá  <NAME>  
+  NUM gúun kupur  <BRK>  
+  NUM gúun kupur  <BRK>  
+   <UNK> NUM gúun esir<sub>two</sub>  <BRK>  
+  NUM gúun kupur  <BRK>  
+  kii pii  <BRK>  
+  kii pii  <BRK>  
+
+<ENDTOKEN>   gigba šá ana qíme sìna 
+  iti apin u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal Kgaur 
+   <BRK>  
+  NUM gur <NAME>  
+  NUM gur <NAME>  
+  NUM gur <NAME>  
+  NUM gur <NAME>  lú mandidimeš 
+  NUM gur <NAME>  
+  NUM gur <NAME>  lú šui  <UNK>  
+  NUM gur <NAME>   <UNK>  
+  NUM gur  <NAME>  lú ugula é  <UNK> <UNK>  
+  NUM gur <NAME>  é d 
+  NUM gur  <NAME>  é d u d 
+  NUM gur <NAME>  <UNK> <UNK>   <BRK>  
+   <BRK>  gur <NAME>  é  <BRK>  
+  u é  <BRK>  
+   <BRK>  
+   <BRK>  
+  NUM <UNK> gur <BRK>  
+   NUM’ 
+  NUM <UNK> gur <BRK>  
+  NUM gur <NAME>  a  <NAME>   <BRK>  
+   NUM’ 
+  NUM gur  <NAME>  u  <NAME>  
+  NUM gur <NAME>  a  <NAME>  
+   NUM’ 
+  NUM gur <NAME>   <NAME>  
+  NUM gur  <NAME>   <BRK>  
+
+<ENDTOKEN>    <UNK> <UNK> <UNK>  kùbabbar ta irbi 
+   <UNK> <UNK> su asnée 
+  ù riṣinu <BRK>  
+  ana  <NAME>  
+  sìin iti zíz u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal Kgaur 
+
+<ENDTOKEN>   NUM gín kùbabbar šá irbi 
+  ana  <NAME>   
+  lú sipa marṣu 
+  šá ina kadané 
+  sìnu 
+  iti gu<sub>four</sub> u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal KI  luur
+<ENDTOKEN>   NUM me mašihu šá sattuk 
+  maakkasu lú muútu 
+  ana  <NAME>  sìnu 
+  ina lìb NUM mašihu ana é d 
+  ana  <NAME>  sìnu 
+  <UNK> NUM mašihu ana é d 
+  ana  <NAME>  sìna 
+   <BRK>  asnée 
+  ana  <NAME>  sìna 
+  iti kin NUMkam u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal Kgaeš 
+
+<ENDTOKEN>   NUM gín kùbabbar ta irbi 
+  kumu síghá šá mu NUMkam 
+  ana  <NAME>  
+  u  <NAME>  šá é  <UNK> <UNK>  
+  sìin iti gan u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal Kgaur 
+
+<ENDTOKEN>   NUM/NUM mana NUM gín kùbabbar 
+   <NAME>  ana ébabbarra 
+  ittadin kùbabbar ana 
+  NUM udunita<sub>two</sub> galútu 
+  ina qíbi šá  <NAME>  
+  ana  <NAME>  
+  lú arbaaa ašú šá 
+   <NAME>  sìin 
+  iti zíz u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal Kku  udunita<sub>two</sub> ina é úree ina igi  <NAME>  
+
+<ENDTOKEN>   NUM NUM.NUM šebar NUM NUM.NUM še <BRK>  
+  ina malaatú ana  <NAME>  
+  a  <NAME>  kurú sìin 
+  <UNK> gín kùbabbar ina kurum<sub>six</sub>hášú ana  <NAME>  
+  lú kizuú šá lú sanga KI  sìn  <UNK> malitu<sub>four</sub> NUM NUM.NUM malaatú 
+   <BRK>   <UNK> meš sattuk sìna 
+  NUM mana NUM gín kùbabbar síghá 
+  ina kallanu ana  <NAME>  
+  lú bahar<sub>two</sub> sìna elat  <UNK> <UNK> <UNK>  
+  NUM mašihu šá šebar igitú NUM mana síghá 
+  ina muhhi gídda šá  <UNK>  ana  <NAME>  
+  lú bahar<sub>two</sub> sìna iti sig<sub>four</sub> u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal kurkur 
+
+<ENDTOKEN>   udunita<sub>two</sub> šá  <NAME>  la igi 
+   <NAME>  lú gal ṣibtu<sub>four</sub> šá 
+  uru ruṣapu ta raqqaatd ibuku 
+  iti du<sub>six</sub> u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal KI  
+   <BRK>  
+  NUM me udunita<sub>two</sub> gali  <BRK>  
+  NUM me NUM udunita<sub>two</sub> tardennutú 
+  NUM mášgal NUM en máštur 
+   <BRK>  
+  pap NUM me NUM udunita<sub>two</sub>  <BRK>  
+   <BRK>  
+
+<ENDTOKEN>   NUM mašihi zúlumma hád 
+  NUM NUM.NUM zízàm NUM pi šegišì 
+  ana gíddee našhiiptu<sub>four</sub> 
+  šá hašádu šá d sip 
+  šá u<sub>four</sub> NUMkam šá iti zíz 
+  <UNK> <UNK> ana  <NAME>  
+  sìnu 
+  iti zíz mu NUMkam 
+   <NAME>  
+  lugal KI  luur  NUM pi ana kiissat 
+  NUM  <BRK> meš 
+   <NAME>  
+
+<ENDTOKEN>   šebar maššartu<sub>four</sub> šá iti apin mu NUMkam 
+  šá ina é šutùm lugal ana  <BRK>  
+   <NAME>  ugula u lú lungameš 
+  sìna iti du<sub>six</sub> u<sub>four</sub> NUMkam mu NUM 
+   <NAME>  lugal KI  
+   <BRK>  
+  NUM mašihi <NAME>  a  <NAME>  
+  NUM kimin <NAME>  a  <NAME>  
+  NUM kimin <NAME>  
+  NUM kimin <NAME>  
+  NUM kimin <NAME>  lú ugula 
+  NUM mašihi zízàm šá  <NAME>  
+  a  <NAME>  šá  <BRK>  
+  ana  <NAME>  sìna 
+
+<ENDTOKEN>   NUM me NUM mašihi šá sattuk šebar 
+  ina maššartu<sub>four</sub> šá iti izi mu NUM 
+  ana  <NAME>  lú ugula šá lú lungameš 
+  sìna elat mašihi igiútu 
+  iti šu u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  
+  lugal KI  
+  u kurkur 
+
+<ENDTOKEN>   im  <NAME>  
+  u  <NAME>  ana 
+   <NAME>  šešini 
+  d u d ana šešini 
+  likrubu NUM me gur zúlumma 
+  ana  <NAME>  u  <NAME>  
+  idin elat  
+  NUM gur zúlumma igitú 
+  šá ana  <NAME>  niip 
+  NUM gur zúlumma 
+  ana  <NAME>  
+  šeš šá  <NAME>  
+  lú lunga šá d i 
+  iti še u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal KI  luur
+<ENDTOKEN>   NUM gúun NUM mana šíghá 
+  šá lubuuštu<sub>four</sub> šá iti sig<sub>four</sub> 
+  mu NUMkam ana  <NAME>  
+  lú ušbar sìna 
+  en NUM gúun NUM ma síghá 
+  man <BRK>  
+   <NAME>   <BRK>  
+  iti gu<sub>four</sub> u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal KI  luur  NUM NUM/NUM mana síghá  <BRK>  
+  ina šuII  <NAME>  lú ušbar 
+  ašú šá  <NAME>  <UNK>  <BRK>  
+   <NAME>  lú ma 
+  pap NUM mana síghá ana  <BRK>  
+  ina šuII  <NAME>  
+  ana lú ennam šu 
+
+<ENDTOKEN>   NUM mašihi maakkasu 
+  sattuk šá iti ab elat 
+  NUM kimin mahrutu 
+  iti ab u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal kurkur 
+
+<ENDTOKEN>   NUM gín kùbabbar  <BRK>  
+  šá mu NUMkam  <BRK>  
+  šá é  <UNK> <UNK> hi  <BRK>  
+  iti apin u<sub>four</sub> NUMkam mu NUM 
+   <NAME>  lugal K  lugal kurkur 
+
+<ENDTOKEN>   NUM me mašihu šá sattuk 
+  zúlumma maakkasu 
+  NUM NUM.NUM asnée  
+  ina sattuk šá iti gan ana 
+   <NAME>  sìna 
+  iti gan u<sub>four</sub> <UNK>kam mu <UNK>kam 
+   <NAME>  
+  lugal KI  
+  lugal kurkur 
+
+<ENDTOKEN>    NUM NUM.NUM.NUM <em>qa</em> lú nagarme
+    NUM <em>pi</em>.NUM.NUM <em>qa</em> lú kabsarme
+    NUM <em>pi</em>.NUM.NUM <em>qa</em> lú kùdimme
+    NUM NUM.NUM.NUM <em>qa</em> lú    simug zabar
+    NUM NUM.NUM.NUM <em>qa</em> lú    simug anbar <em>šá</em> šuII
+    NUM NUM.NUM.NUM <em>qa</em> lú    simug anbar <em>šá</em> šuII
+    NUM <em>pi</em> lú ušbar <em>birmu</em> <em>šá</em> šuII
+    NUM NUM.NUM lú ušbar <em>birmu    šá</em> šuII
+    NUM NUM.NUM.NUM <em>qa</em> lú <em>puṣaaa</em>
+    NUM NUM.NUM lú burgulme
+    NUM NUM.NUM lú <em>mušallimanu</em>
+    NUM NUM.NUM lú nagargiš
+    NUM NUM.NUM lú adgub<sub>five</sub>me
+    NUM NUM.NUM.NUM <em>qa</em> lú ašgabme
+    pap NUM gur NUM <em>pi</em> kašhá
+    kašhá <em>šá ana</em> lú ummea
+    <em>naadnu</em> iti še
+    u<sub>four</sub> NUMkam    mu sag  <NAME> 
+    lugal kurkur
+
+<ENDTOKEN>     <NAME>  a<em>šú šá </em> <NAME>  <em>šá ana</em>
+     <NAME>  lú šàtam    éanna a<em>šú šá </em>
+     <NAME>  a  <NAME>  u</em>  <NAME> 
+    lú sag lugal lú en <em>piqitti</em> éanna <em>iqbuú</em>
+    <em>umma</em>  <NAME>     a<em>šú šá </em> <NAME> 
+    <em>ana    idiia ittišú</em> <em>ki</em> <em>ibukaanni</em>
+    d ittišú ù</em> u<sub>eight</sub>há <em>erbi</em>
+    <em>šá</em> d <em>šá</em> KI  te ina</em> é<em>šú</em>
+    <em>igdazaaz    ù šiindu šá</em> u<sub>eight</sub>há<em>šú</em>
+    <em>inasaar iltemit</em>
+    u<sub>four</sub><em>mu</em> <em>šá</em>  <NAME>     a<em>šú šá </em> <NAME> 
+    <em>inabbaku </em> <NAME>  a<em>šú šá </em> <NAME> 
+    <em>úkaanšú</em>  <NAME>  a<em>šú </em>
+    <em>šá</em>  <NAME>  a lú šangu d <em>u</em>  <NAME> 
+    a<em>šú šá </em> <NAME>  </em>ad <em>šá</em>  <NAME> 
+    <em>puut</em>  <NAME>  ina</em> šuII  <NAME>  
+    lú šàtam éanna <em>ù</em>  <NAME>  lú sag lugal en <em>piqitti</em> éanna
+    <em>našuúú</em> lú    mukin<sub>seven</sub>  <NAME> 
+    a<em>šú šá </em> <NAME>  a lú šangad
+     <NAME>  <UNK> <UNK>     a<em>šú šá </em> <NAME>   <NAME> 
+    a  <NAME>  lú umbisag  <NAME> 
+    a<em>šú šá </em> <NAME>  a    lú sipagu<sub>four</sub> KI 
+
+    iti šu u<sub>four</sub> NUMkam    mu NUMkam  <NAME>  lugal kurkur
+
+<ENDTOKEN>     <em>ina </em>u<sub>four</sub><em>mu </em>lú <em>mukinnu ittalkamma</em>
+     <NAME>  </em>a<em>šú šá </em> <NAME> 
+    <em>uktinnu    šá </em>šebar <em>ina </em>šuII  </sup> <NAME> 
+    <em>ù </em>dumumeš<em>šú elat </em>NUM    gur šebar <em>mahir</em>
+    <em>mimma    mala </em>lú <em>mukinnu</em>
+    <em>úkaannuuš </em>NUM en NUM
+    <em>ana </em>d <em>šá KI  <em>in<    lú <em>mukinnu </em> <NAME>  lú sag lugal
+    <em>šá</em> <em></em>ugu <em>quppu</em><em></em>  <NAME>     a<em>šú </em>
+    <em>šá </em> <NAME>  </em>a  <NAME> 
+     <NAME>  a<em>šú šá </em> <NAME>  </em>a  <NAME> 
+     <NAME>  a<em>šú šá </em> <NAME>  a  <NAME> 
+     <NAME>     a<em>šú šá </em> <NAME>  </em>a  <NAME> 
+    lú umbisag  <NAME>     a<em>šú</em>
+    <em>ša</em>  <NAME>     a  <NAME> 
+    KI  pi<sub>four</sub> NUMkam
+    mu NUMkam  <NAME>  </em>lugal    KI 
+
+    lugal kurkur
+
+<ENDTOKEN>     u<sub>four</sub> NUMkam<em> šá </em>iti izi  <NAME>  </em>a<em>šú šá </em>
+     <NAME>  a  <NAME> 
+     <NAME>  </em>a<em>šú šá </em> <NAME> 
+    <em>ibbakkamma    ana </em> <NAME> 
+    lú šàtam éanna <em>ù </em> <NAME> 
+    lú sag lugal lú en <em>piqittu<sub>four</sub></em> éanna    a
+    <em>inamdin    kii la itabkamma</em>
+    <em></em><em>la</em><em>    ittannu miṭiti šá </em>giš
+    <UNK> <UNK> <em>šá </em>d <em>šá KI  <em>š <i
+     <NAME>  </em> <NAME> 
+    <em></em><em>i</em><em>namdin</em>
+    lú <em>mukinnu </em> <NAME>  </em>a<em>šú šá </em>
+     <NAME>  </em>a  <NAME> 
+     <NAME>     šá </em> <NAME> 
+    a  <NAME> 
+    lú umbisag  <NAME>  a<em>šú šá </em>
+    <em></em> <NAME>  KI  iti i u</sub>NUMkam
+    mu NUMkam  <NAME>  </em>lugal    KI 
+
+    lugal kurkur
+
+<ENDTOKEN>     NUM udu <em>puhal</em>
+    NUMNUM u<sub>eight</sub>me
+    NUM <em>kalum</em>
+    NUM šu <em>parrat</em>
+    pap NUMNUM babbar<em>tu<sub>four</sub></em>
+    NUM mášgal
+    NUM mášme
+    NUM máštur
+    NUM míášgàr
+    pap NUM ge<sub>six</sub><em>tu<sub>four</sub></em>
+    papma NUMNUM
+    <em>ṣeenu</em>
+    <em>ina </em>igi  <NAME> 
+    a  <NAME> 
+    iti izi u<sub>four</sub> NUMkam
+    mu NUMkam  <NAME> 
+    lugal Kgaurkur
+
+<ENDTOKEN> mana kaspu qaqqadu ...
+šá
+m
+māršú šá m
+mār
+m
+ina muḫḫi
+m
+māršú
+šá md
+mār m 
+šá
+arḫi ina muḫḫi NUM manée NUM šiqil kaspu
+ina
+muḫḫišú irabbi še
+zaaqpu
+ina
+muḫḫi nāri eššú ...
+uRd
+weggebr<UNK>chen
+
+<ENDTOKEN> <UNK>
+gur uṭṭatu ... šá md
+mār<sub>two</sub>šú šá m mār<sub>two</sub> m
+u
+m
+mār<sub>two</sub>šú
+šá md mār m
+ina
+muḫḫi  md mār<sub>two</sub>šú šá  m
+mār<sub>two</sub> lú uṭṭatu ša ḫarrāni
+ša
+md
+u m ...
+ina
+lìbbi NUM gur Rasur uṭṭatu <UNK>
+...
+šá
+md
+u m ...
+ù
+NUM gur Rasur uṭṭatu zittu ...
+Rd
+ina
+iti
+ina KI 
+
+ <UNK>
+<UNK> uṭṭata a<sub>four</sub> NUM gur inamdin
+Rs
+ elat u’ilētimeš maḫreetu
+ šá
+ina muḫḫi md
+
+<ENDTOKEN> šá
+muḫḫi nāri eššú eluú
+šaplû
+<UNK> <UNK> mala zittu šá m bulliṭ
+u
+md
+mārēmeš šá
+m
+mār
+m ina muḫḫi m
+māri
+šá m
+mār md
+ina
+iti
+suluppē a<sub>four</sub> NUM
+gur Rasur
+ina
+mašiḫu šá md ina
+muḫḫi NUMet rittu<sub>four</sub>
+inaaddin
+itti NUM gur tuḫalla
+ gipuú
+lìbbilìbbi mangaga
+ <UNK>
+<UNK> <UNK> <UNK> <UNK> dariku inaaddin
+ šissinnu
+m
+eṭiir
+ lú ul eṭiir 
+ itti
+NUM gur NUMbán NUM silà ḫabu úḫini u
+šugarruú
+
+<ENDTOKEN> <UNK>bere Hälfte weggebr<UNK>chen
+<UNK>
+<UNK> <UNK> <UNK> md
+<UNK> <UNK>
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+NUM’
+md māršú
+šá md mār<sub>two</sub> m
+NUM’
+la
+zuu’zu pūtu elītu kišād nār d pūtu
+šaplītu
+NUM’
+adi
+muḫḫi makallu šá še
+šuatì še
+zaqpi
+NUM’
+ù
+taptuú maadu ù iṣu md
+NUM’
+māršú
+šá md
+mār<sub>two</sub> m ana NUM mana NUM šiqil
+NUM’
+kaspi
+peṣûBABBARú šibirti
+ana f māratsu
+Rs NUM’
+ šá
+m
+mār<sub>two</sub> m
+iddiin kasap šimi eqlīšú
+NUM’
+md ina
+qātēII f eṭiir
+apil
+NUM’
+ruguummaa
+ul iši ul iturruma ana aḫameš 
+NUM’
+ul
+iraggumu matima mannama šá bīt m
+NUM’
+illaamma
+iraggumu umma eqlu šuatì ul nadinma
+NUM’
+kaspu
+ul maḫiir lú kasap imḫuru 
+adi NUMtaàm itanappal
+NUM’
+Einleitungsf<UNK>rmel nur Spuren
+
+<ENDTOKEN> NUM mana
+kaspu šá  md
+mār<sub>two</sub>šú
+šá
+m
+mār<sub>two</sub> m
+ù
+NUM/NUM
+mana NUM šiqil kaspu šá m mār<sub>two</sub>šú šá
+md
+mār  md
+ana
+ḫarrāniII itti
+aḫameš iškunu
+mimma
+ina āli u ṣēri ina muḫḫi  m
+ina
+muḫḫi ittiru aḫaata šúnu
+mimma
+mala elat NUM šiqil
+kaspi
+uRd
+m
+ana etequ ittiqu
+ana
+muḫḫi illi
+
+<ENDTOKEN> NUM PI še eqel ṣēri giš giš zaqpi
+iṣṣi biltiGÚ.UN ugār nār bitqa šá m
+<UNK> <UNK> <UNK><UNK> abul d piḫat KI 
+
+  <BRK> 
+NUMNUM kùš šiddu elû im ṭāḫ<sub>two</sub>
+md māršú šá md m nadin eqli
+NUM me NUM NUM kùš šiddu šaplû im ṭāḫ<sub>two</sub>
+m u aḫḫēmeš šú mārē m šá m <UNK> <UNK> <UNK>ušabši ši ši</sup>
+NUM kùš pūtuSAG.KI elītu im ṭāḫ
+md nādin eqli 
+ NUM kùš pūtuSAG.KI šaplītu im ṭāḫ
+md nadin eqli
+napḫar<sub>three</sub> NUM PI še mišiḫti eqli šuati
+  <BRK> 
+itti md šá md m
+md māršú šá m mār m
+ù m māršú šá m mār md
+kii NUM GARḫi.a še še</sup>zēru ana NUM šiqil kaspi maḫīra imbuú
+ NUM mana kaspa išámu ana šimišú gamrutu
+ù NUM šiqil kaspa kii atri iddinušu
+napḫar NUM mana NUM šiqil kaspa šibirta
+  <BRK> 
+Rs
+ina qaat md māršú šá m
+mār m u m māršú šá
+m mār md
+md māršú šá md mār md
+šīm eqlīšú kasap gamirti maḫir apil
+rugúmmaa ul iši ul ituruma
+ana aḫameš ul iraggumu matima
+ina aḫḫēmeš mārēmeš kimtu<sub>four</sub> nisutu<sub>four</sub> u salata
+šá bīt md md
+šá iraggumu umma eqlu šuatì ul nadinma
+kaspu ul maḫir iqabbuú kasap imḫuru
+lú adiEN NUMtaàm itanappal
+ ana laannii ṭupšarrūmeš šá šarri im
+ išaṭṭarūma ana md u m inamdinū
+Rs NUM NUM 
+ ṣupur md nadin eqli kuum naNUM
+NUM NUM 
+ mee md ana md
+NUM NUM
+  u m ul ikilli
+
+<ENDTOKEN> leer gur suluppū imittu
+šá
+m mār<sub>two</sub>šú
+šá md
+mār<sub>two</sub>
+m ina muḫḫi md
+mār<sub>two</sub>šú
+šá md mār<sub>two</sub> lú
+ina iti
+suluppē
+a’ NUM <UNK> gur ina ḫaṣari
+itti
+NUM gur tuḫalla mangaga
+gipuú
+biltu<sub>four</sub> šá ḫuṣabi
+NUM NUM
+darikuinamdin
+ḫabu
+úḫinu inamdin
+šissinšú ul eṭir <UNK>
+epeš
+nikkassi šá imitti šá <UNK> <UNK> <UNK> <UNK>
+ina
+lìbbi NUM gur suluppū šá karee
+
+<ENDTOKEN> NUM/NUM mana kaspa  m ù
+md mārūmeš šá m
+mār<sub>two</sub> md ina šīm
+še ina qātēII m
+mār<sub>two</sub>šú šá md mār<sub>two</sub> m
+maḫruu’
+
+<ENDTOKEN> še
+šá ḫarrānII Sukullaata
+bīt nudunnuú
+šá
+f māratsu šá md
+</sup>
+mār<sub>two</sub>
+md ummi šá m
+mār<sub>two</sub>šú šá 
+m
+mār<sub>two</sub> md šá md
+mār<sub>two</sub>šú
+šá md mār<sub>two</sub> m
+ina qātēII 
+m
+u aḫḫēmeš mārēmeš
+šá m mār<sub>two</sub>
+md
+ana
+kaspi imḫuru u árki md
+mār<sub>two</sub>šú
+šá m mār<sub>two</sub> m
+še ina qātēII md
+mār<sub>two</sub>šú
+šá md mār<sub>two</sub>
+m ana kaspi
+ imḫuru
+ù NUMbán NUM silà še šá ina qutanu 
+ pūt
+zitti šá m itti aḫḫēmeš
+ šá
+md m
+mār<sub>two</sub>šú šá m
+ mār<sub>two</sub>
+m ina qātēII m m</sup>Šāpikzēri
+ana kaspi 
+ imḫuru
+f <UNK> <UNK>a māratsu
+alti m mār<sub>two</sub>šú šá
+ m
+mār<sub>two</sub> md ana lú
+ ina
+lìbbi ášbaat
+
+<ENDTOKEN> NUMen marri šá
+NUM mana parzilliAN.BAR <UNK>
+šuqultuKI.LÁ
+šá m šá  m
+mār<sub>two</sub>šú
+šá  m mār<sub>two</sub> m ina pān
+md
+mār<sub>two</sub>šú šá m
+
+<ENDTOKEN> NUM/NUM
+mana NUM šiqil gírú kaspu
+šá
+md šá  m
+mār<sub>two</sub> m
+ina
+muḫḫi md mār<sub>two</sub>šú
+šá md
+mār<sub>two</sub>
+md ina qíit
+šá
+iti inamdin
+ina
+kasap šīm eqlīšú išallim
+
+<ENDTOKEN> Anfang
+weggebr<UNK>chen
+šá
+m
+mār<sub>two</sub>šú šá md
+mār  m
+ina muhhi m
+mār<sub>two</sub>šú šá m
+mār<sub>two</sub>l
+ina iti suluppē a<sub>four</sub>
+NUM gur ina Šuppatu<sub>four</sub>
+ina bīt md inamdin
+ù ina qíit iti kaspa a<sub>four</sub>
+NUM manê ina qaqqadīšú
+inamdin eqelšú šá ina Šuppatu<sub>four</sub> šá ṭāh<sub>two</sub>
+m
+maškanu šá m
+lú
+ina muhhi ul išallaṭ
+adi m
+kasapšú išallimu
+
+<ENDTOKEN> gur suluppū ina suluppē
+imitti
+šá šanat NUM.kam
+m
+šàr KI 
+
+m
+lú
+šá
+m ina naášparti
+šá
+m qātēII m m</sup>Nabûnaṣir
+mār<sub>two</sub>šú
+šá m mār<sub>two</sub> m
+mahiir
+elat <UNK> <UNK> <UNK>
+ <UNK>
+<UNK> <UNK> <UNK>
+NUMentaàm ilteqû
+
+<ENDTOKEN> NUMNUM šu
+gur suluppū imitti eqli šá bāb nār Kutê labīri
+ù
+NUM/NUM mana NUM šiqil kaspu šá m
+mār<sub>two</sub>šú
+šá md mār<sub>two</sub>
+m ina muhhi
+md
+mār<sub>two</sub>šú šá m
+mār<sub>two</sub> m.lú
+ina
+iti suluppē a’ NUMNUM šu gur
+itti
+gur tuhalla mangaga gipuú biltu<sub>four</sub>
+šá
+huṣabi NUM dariku inamdin habu úhinu
+inamdin
+ù kaspa a’ NUM/NUM mana NUM šiqil
+šá
+arhi ana muhhi NUM šiqil kaspi ina muhhīšú
+Rd
+irabbi elat NUM šiqil kaspi mahru
+md
+puut eṭirir naši
+Rs
+elat rašutu mahritu<sub>four</sub> šá ina muhhišú
+
+<ENDTOKEN> mana NUM šiqil kaspu šá md
+lú šá m mār<sub>two</sub>šú
+šá
+md
+mār<sub>two</sub> m ina muhhi
+md
+mār<sub>two</sub>šú šá m
+mār<sub>two</sub>
+m še ina pani abul Giššú
+šá
+ṭāh<sub>two</sub> m
+md
+bīt
+maškanišú mahruú šá iti maškanu
+šá
+md adi kasapšú
+išallimu u’iltu mahriIGItu<sub>four</sub>
+šá
+mana kaspi hepaata
+lRd
+ina
+iti kaspa ina qaqqadīšú
+inamdin
+
+<ENDTOKEN> ṭuppi
+šupeltu<sub>four</sub> šá eqlētimeš
+šá
+m māršú
+šá md
+mār m ù  m
+māršú šá m mār lú
+adi
+še nudunnuú šá f
+altīšú
+mārassuDUMU.SAL.A.NI
+šá m mār m
+itti
+ahameš ušpeelu
+  <BRK> 
+šiddu elû im ṭāh<sub>two</sub> m
+māršú šá m
+šiddu šaplû im ṭāh<sub>two</sub> m
+māršú šá m
+pūtu elītu im kišād nāri eššú
+pūtu šaplītu im ṭāh<sub>two</sub>
+m māršú šá m
+ naphar<sub>three</sub> NUMPI NUMbán še šaplaani nāri eššú
+mehratGAB abul d pīhāt KI 
+
+annaa še šá m adiše zēri šas<UNK>
+f
+altīšú
+  <BRK> 
+ana
+NUMPI NUMbán še
+inaše šá m
+šá inari <UNK>
+<UNK> miṣir šá m
+ <UNK>
+<UNK> <UNK> <UNK> <UNK> miṣir eluú
+ <UNK>
+<UNK> <UNK> <UNK> <UNK> miṣir šapluú
+d
+eṭreetu<sub>four</sub>
+Lücke
+v<UNK>n etwa NUM Zeilen am Beginn der Rückseite
+ ruguummaa ul išuú
+ana la enée ṭuppi šupelti
+išṭuruma NUMentaàm ilquú
+
+<ENDTOKEN> Anfang weggebr<UNK>chen
+ù m 
+šiddu šaplû
+pūtu elītu 
+pūtu šaplītu im 
+  <BRK> 
+pūtu elītu im ṭāḫ<sub>two</sub> m
+pūtu šaplītu im ṭāḫ<sub>two</sub> md
+ šalšú eqlu napḫar<sub>three</sub> NUM gur še eqlētimeš šinaati
+  <BRK> 
+itti m māršú šá m
+mār m
+m māršú šá m mār m Egibi
+adi NUMbán še ana NUM šiqil kaspi maḫiri imbēma
+NUM NUM mana kaspa išām šiimišú gamrūti
+u NUM/NUM mana kaspa kî pî atri iddissu
+Rs
+ napḫar NUM NUM/NUM mana kaspa šibirta ina qātē
+md māršú šá m mār
+ m
+m māršú šá m mār m šīm eqlētimeš
+šinaati kasaap gamirti maḫir apil
+ruguummaa ul iši ul iturruma ana aḫāmeš
+ul
+iraggumu matima manama šá bīt m
+šá iraggumu umma eqlētimeš šinaati ul nadnāma
+kaspu ul maḫiir lú kasap imḫuru
+adi
+NUMtaàm ītanappal ...
+weitere NUM Zeilen  Zeichen abgerieben
+maḫiri šá ...
+m šàr KI  u m .
+<ENDTOKEN> NUM gur NUMbán še eqel ṣēri giš g
+zaqpi iṣṣi bilti meḫretGAB abul d
+pīḫāt KI  ina bāb nār KI  labiri
+  <BRK> 
+šiddu elû im ṭāḫ<sub>two</sub> md
+māršú šá m mār m
+maḫirani eqli
+šiddu šaplû im ṭāḫ<sub>two</sub> md
+māršú šá m mār m
+pūtu elītu im kišād nār KI 
+
+ pūtu šaplītu im ṭāḫ<sub>two</sub> ḫarrānII šarri
+  <BRK> 
+ napḫar<sub>three</sub>NUM gur NUMbán še zaqpi eqlu šumātiMUmeš
+ itti md māršú šá md
+ mār m md māršú
+šá
+ m mār m
+ kii NUMbán še ana NUM šiqil kaspi maḫīra
+ imbéema NUM NUM/NUM mana kaspa išáam
+ ana šīmīšú gamrutu ù
+ NUM NUM/NUM šiqil kaspa kii pii   
+ atri iddisu
+ napḫar NUM NUM/NUM mana NUM NUM/NUM šiqil kaspa šibirtu<sub>four</sub>
+ ina qātēII md māršú šá m
+ mār m
+Rs NUM
+md māršú šá md mār m
+ šīm eqlīšú kasap gamirtu<sub>four</sub> maḫiir
+ apil rugúmmaa ul iši 
+ ul iturrūGURmeš aḫameš ul iraggumu
+ matima ina aḫḫēmeš mārēmeš kimtu<sub>four</sub> 
+ nisutu<sub>four</sub> u salātiIM.RI.A šá bīt mār m
+ šá iraggumu umma eqlu šumātiMUmeš
+ ul nadinma kasap ul maḫiir 
+ paqirranu kasap imḫuru 
+ adi NUMtaàm itanappal
+Vermerke über Nagelmarken und Siegelbeischriften
+ ṣupur md nadin eqli
+ kima naNUM
+l rRd
+ naNUM || m || ṭupšarru mit Siegel  beide E<UNK>emplare
+
+<ENDTOKEN> ana NUM mana
+itti m
+md māršušá m
+mār m maḫīra imbēma <UNK> mana <UNK> šiqil kaspa
+ kaspa kî pī atri iddinšu
+
+<ENDTOKEN> NUMbán NUM silà še zaqpi eqel ṣēri giš
+giš zaqpi meḫratGAB abul d pīḫāt KI 
+
+šá m māru šá m mār lú
+ina qātēII md māri šá m
+mār<sub>two</sub> m ana NUM/NUM mana NUM šiqil kaspu peṣûBABBARú
+imḫuru ana ṣebutu<sub>four</sub> šá md
+māri šá m mār m šáṭaru
+šaṭṭár mimma zitti šá m ina šezēri
+šuatì iaanu kaspu šá md
+uRd NUM 
+ana še šuatì nadin
+
+<ENDTOKEN> NUM gur suluppū ... 
+ebūr eqli šá <UNK> <UNK> <UNK> <UNK> šá md
+ù aḫḫēmeš mārēmeš šá m
+mār m ù mārēmeš šá m...
+ina muḫḫi m māršú šá
+md ina iti ina ḫaṣari
+ina mašiḫu šá md
+inamdin itti NUM gur biltu<sub>four</sub>
+uRd NUM
+tuḫallutu<sub>four</sub> mangaga gipuú 
+ NUM dariki inamdin ešruú 
+Rs NUM
+ul eṭir
+
+<ENDTOKEN>   NUM gur šenumun ašà edin giš giš zaqpi 
+  iṣ gúun adi NUM NUM.<sub>four</sub> kišubbuú eliš 
+  ù šapliš šá kaskalII lugal agàr garin litamu 
+  du<sub>eight</sub> kágal d nam K   <BRK>  
+  ús anta tu<sub>fifteen</sub> sisá ússadu šenumun nudunnuú 
+  šá f dam  <NAME>  mahiir ašà 
+  ús kita tu<sub>fifteen</sub> u<sub>eighteen</sub>lu ússadu harri šá dumu  <NAME>  
+  ù ússadu dumumeš šá  <NAME>  
+  sag anta tu<sub>fifteen</sub> martu ússadu  <NAME>  dumu  <NAME>  
+  sag kita tu<sub>fifteen</sub> kurra gú i<sub>seven</sub> KI  
+   <BRK>  
+  šunigin NUM gur šenumun ašà mumeš ina lìbbi NUM gur NUM.NUM šenumun 
+  zaqpu kii NUM NUM.NUM šenumun ana NUM gín kùbabbar 
+  NUM mana NUM gín kùbabbar kilábi NUM NUM.NUM šenumun kišubbuú 
+  kii NUM NUM.NUM šenumun ana NUM gín kùbabbar NUM gín kùbabbar kilábi 
+  itti  <NAME>  dumušú šá  <NAME>  dumu <NAME>  
+   <NAME>  dumušú šá  <NAME>  dumu  <NAME>  
+  mahiri imbéema NUM NUM/NUM mana kùbabbar išáam 
+  ana šimiišú gaamrutu 
+  ù NUM gín kùbabbar kii atri iddiinšu 
+   <BRK>  
+  šunigin NUM NUM/NUM mana kùbabbar kùpaddu ina šuII 
+   <NAME>  dumušú šá  <NAME>  dumu  <NAME>  
+   <NAME>  dumušú šá  <NAME>  dumu  <NAME>  
+  šiimi ašàšú kasap gamirti mahiir 
+  apiil rugúmmaa ul iši ul ituruma 
+  ahameš ul iraggumu matima ina šešmeš 
+  dumumeš kimtu<sub>four</sub> nésutu<sub>four</sub> ù salat šá dumu <NAME>  
+  šá iraggumu umma ašà mumeš ul nadiinma 
+  kùbabbar ul mahiir lú paqíranu kùbabbar imhuru 
+  adi NUMtaàm itanaappaal 
+  mìmma ina kùbabbar rašuti šá  <NAME>  ad 
+  šá  <NAME>  ina šimi ašà mumeš ul mana 
+   <BRK>  
+  ina kanaku imdub mumeš 
+   <BRK>  
+  igi  <NAME>  dumušú šá  <NAME>  dumu  <NAME>  
+   <NAME>  dumušú šá  <NAME>  dumu  <NAME>  
+   <NAME>  dumušú šá  <NAME>  dumu lú burgul 
+   <NAME>  dumušú šá  <NAME>  dumu <NAME>  
+   <NAME>  dumušú šá  <NAME>  dumu lú šuha 
+   <NAME>  dumušú šá  <NAME>  dumu lú simug 
+   <NAME>  dubsar dumušú šá  <NAME>  ṣur dumu lú simug 
+  KI  itu</sub> NUMkam mu NUMkam  <NAME>  
+  lugal KI  luurbin  <NAME>  
+  nadiin ašà kima na<sub>four</sub>kišibšú 
+
+<ENDTOKEN>   NUM gur zúlumma zaglu ašà 
+  šá harri šá hazuzu 
+  é nudunnuú šá f 
+  u fd 
+  u puut hala šá  <NAME>  u šešmeššú 
+  ameš šá  <NAME>  ina ugu 
+   <NAME>  ašú šá  <NAME>  ina iti apin 
+  ina haṣari ina mašihu šá NUM pi 
+  ina ugu NUM et rittu<sub>four</sub> ittu<sub>four</sub> NUM gur 
+  biltu<sub>four</sub> tuhalla gipuú 
+  mangaga NUM dariku inamdin 
+  NUM biltu<sub>four</sub>lú mukinnu  <NAME>  
+  ašú šá  <NAME>  a  <NAME>   <NAME>  
+  ašú šá  <NAME>  a lú bahar<sub>two</sub> 
+  lú umbisag  <NAME>  ašú šá  <NAME>  
+  a lú azalag KI  it 
+  u<sub>four</sub> NUMkam mu NUMkam  <NAME>  
+  lugal KI  luur
+<ENDTOKEN>   NUM gur zúlumma šá  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  ina ugu 
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+  ina qíit šá iti apin ina KI  
+  ina ugu i<sub>seven</sub> inaaddin 
+  lú mukinnu  <NAME>  ašú šá  <NAME>  
+  a lú simug  <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+  a  <NAME>  
+   <NAME>  dubsar a  <NAME>  
+  Ki >NUM</sub> u<sub>four</sub> NUMkam mu NUM 
+   <NAME>  lugal K  lugal kurkur 
+
+<ENDTOKEN>   ina úìltì šá rašutu šá 
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>  šá muhhi  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  <UNK> <UNK>  ina lìbbi 
+  NUM mana kùbabbar  <NAME>  
+  ina šuII  <NAME>  
+  elat NUM NUM/NUM mana kùbabbar <BRK>  
+   <UNK> nutu<sub>four</sub> šá  <NAME>  
+  ana  <NAME>  
+  kùbabbar a<sub>four</sub>NUM NUM/NUM mana <BRK>  
+  ina úìltìšú  <BRK>  
+  lú mukinnu  <NAME>  
+  a  <NAME>   <NAME>  šá 
+   <NAME>  a <NAME>   <BRK>  
+  ašú šá  <NAME>  a lú simug  <NAME>  
+  dubsar a  <NAME>  Ki sub>NUM</sub> <UNK>kam 
+  mu NUMkam  <NAME>  lugal 
+  Kku  NUM enataan ilquú 
+
+<ENDTOKEN>   NUM me NUM gur zúlumma šá zaglu ašà 
+  šá  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  ina muhhi  <NAME>  ašú šá  <NAME>  
+  ina lìbbi NUM me gur zúlumma ina iti du<sub>six</sub> u<sub>four</sub> <UNK>kam 
+  ina haṣari šá  <NAME>  šá ina muhhi i<sub>seven</sub>  <UNK> <UNK>  ina 
+  mašihu šá NUM pi inamdin ù NUM gur  <UNK> <UNK>  
+  zúlumma ina iti du<sub>six</sub> u<sub>four</sub> NUM 
+  inamdin úìltìmeš <BRK>  
+  šá zúlumma šá  <NAME>  ašú šá  <NAME>  
+  šá ina muhhi  <NAME>  ašú šá  <NAME>  
+  šá ina é  <NAME>  
+  illunu šá  <NAME>  ašú šá  <NAME>  
+  šiini <UNK> 
+  lú mukinnu  <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+  a lú gal dù  <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+   <NAME>  dubsar ašú šá  <NAME>  
+  a lú gírlá kar KI  it 
+  u<sub>four</sub> <UNK>kam mu NUMkam  <NAME>  
+  lugal KI  luur   <BRK>  rašutú  
+  šá  <NAME>  ašú šá  <NAME>   <BRK>  
+   <UNK>   <BRK>  
+
+<ENDTOKEN>   NUM gín kùbabbar šá ina NUM gín bitqa 
+  nuuhhutú ina šám šenumun 
+  garin litamu  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  ina šuII  <NAME>  ašú šá  <NAME>  
+  a  <NAME>  mahir 
+  NUM entaàm tiú 
+  lú mukinnu  <NAME>  ašú šá  <NAME>  
+  a lú simug  <NAME>  ašú šá  <NAME>  
+  a lú simug  <NAME>  ašú šá 
+   <NAME>  
+  lú umbisag  <NAME>  ašú šá  <NAME>  
+  a  <NAME>  Ki   u<sub>four</sub> NUMkam mu NUMkam  <NAME>  
+  lugal Kgaur 
+
+<ENDTOKEN>   NUM pi šenumun ašà edin šá giš 
+  giš zaqpi giš gúun ù 
+  NUM NUM.NUM šenumun ašà merešú 
+  agàr garin litame miihrat 
+  kágal d nam KI  
+   <BRK>  
+  ús anta tu<sub>fifteen</sub> sisá ússadu 
+   <NAME>  u  <NAME>  dumu lú ašgab 
+  ús kita tu<sub>fifteen</sub> u<sub>eighteen</sub>lu ússadu 
+   <NAME>  dumu  <NAME>  
+  sag anta tu<sub>fifteen</sub> martu gú i<sub>seven</sub> piqudu 
+  sag kita tu<sub>fifteen</sub> kurra ússadu 
+  šenumun NUM lim 
+  šunigin NUM gur NUM.NUM šá ina šà NUM pi šenumun 
+  zaqpi ašà šuati 
+   <BRK>  
+  ki  <NAME>  dumušú šá  <NAME>  
+  a lú ìšur gina  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  kii NUM pi šenumun zaqpi NUM manakùbabbar <BRK>  
+   <BRK>  
+  itti  <NAME>  dumušú šá 
+   <NAME>  a  <NAME>  
+   <NAME>  dumušú šá  <NAME>  
+  a lú ìšur gina šám ašàšú kùbabbar tiltì 
+  mahir apil rugummaa ul iši 
+  ul iturruma ahameš ul iraggumu 
+  matima manama šá é  <NAME>  
+  a lú ìšurgina šá iraggumu umma ašà 
+  šuatì ul nadinma kùbabbar ul mahir 
+  lú paqirani kùbabbar imhuru 
+  adi NUMtaàm itanappal šenumun 
+  atra u maṭu kii mahirišúnu 
+  ahameš ippalu 
+   <BRK>  
+  ina kanaku imdub šuatì 
+   <BRK>  
+  igi  <NAME>  ašú šá  <NAME>  
+  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  a lú adgub<sub>five</sub> 
+   <NAME>  ašú šá  <NAME>  a lú gírlá 
+   <NAME>  dubsar a lú sanga d 
+  KI  itsuub> u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal KI  
+  lugal kurkur giš  <NAME>  
+  nadin ašà gim na<sub>four</sub>kišibšú 
+  na<sub>four</sub>kišib /  <NAME>  / dubsar 
+
+<ENDTOKEN>   NUM/NUM manaNUM gín NUM kùbabbar 
+  šá ina NUM gín bitqa nuuhhutú 
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+  ina rašutišú ina šuII  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  mahir 
+  NUM entaàm iltequú 
+  lú mukin<sub>seven</sub>  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  lú umbisag ašú šá  <NAME>  
+  a  <NAME>  KI  
+  iti še árkuú mu NUMkam 
+   <NAME>  lugal K  u kurkur 
+
+<ENDTOKEN>   NUM gín kùbabbar šá ina NUM gín bitqa nuuhhutú šá 
+   <NAME>  dumušú šá  <NAME>  
+  a lú azalag ina šuII  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  ana ugu  <NAME>  dumušú šá 
+   <NAME>  a  <NAME>  
+  mahir 
+  NUM ena:taan ilquú 
+  lú mukinnu  <NAME>  dumušú šá 
+   <NAME>  a  <NAME>   <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+  a lú nagar 
+   <NAME>  lú umbisag ašú šá  <NAME>  
+  a  <NAME>  KI  it
+  u<sub>four</sub> NUMkam mu NUMkam  <NAME>  
+  lugal KI  luur
+<ENDTOKEN>   NUM en gu<sub>four</sub> saamu qablutu <UNK> 
+  NUM en gu<sub>four</sub> buuštu<sub>four</sub> saanda 
+   <UNK> <UNK> úuttu<sub>four</sub> šá  <NAME>  
+  ašú šá  <NAME>  a lú lakuruuppu 
+  ana <UNK> manaNUM gín kùbabbar nuuhhutu 
+  šá ina NUM gín bitqa ana  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  
+  iddin puut uškutu šá gu<sub>four</sub>meš 
+   <NAME>  naši kùbabbar aʾ 
+   <UNK> manaNUM gín d 
+  ina šuII  <NAME>  eṭir 
+  lú mukinnu  <NAME>  ašú šá 
+   <NAME>  a lú mušezib 
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  lú umbisag 
+  ašú šá  <NAME>  a  <NAME>  
+  a  <NAME>  uru šá d 
+  iti du<sub>six</sub> u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal Kku
+<ENDTOKEN>   šenumun maaari di 
+  šá ina é giš šá  <NAME>  
+  šá ana  <NAME>  dumu šá  <NAME>  sìna 
+  šá ina é apin šá  <NAME>  
+  dumu šá  <NAME>  a  <NAME>  
+   <BRK> anna 
+   <BRK>  
+   <UNK> <UNK> <UNK> <UNK>   <NAME>  dumu šá  <NAME>  
+  a lú sanga d  <NAME>  dumu šá  <NAME>  
+  a  <NAME>   <NAME>  dumu šá  <NAME>  a lú nagar 
+   <NAME>  dumu šá d  <NAME>  dumu šá  <NAME>  
+   <NAME>  dubsar dumu šá  <NAME>  a lú galdù 
+  KI  it NUMsub>NUM</sub> NUMNUMlákam 
+  mu NUMkam  <NAME>  
+  lugal KI  luur
+<ENDTOKEN>   NUM mana NUM/NUM mana NUM gín kùbabbar 
+  šám éšúnu  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  ù 
+  f ama ina šuII  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  maharʾu ina gub šá  <NAME>  <UNK> <UNK>  
+  ašú šá  <NAME>  a  <NAME>  sanga d 
+   <NAME>  ašú šá  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá 
+   <NAME>  a  <NAME>  érasure 
+   <NAME>  lú umbisag ašú šá  <NAME>  
+  a  <NAME>  Ki ub>NUM</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal KI  luur
+<ENDTOKEN>    <NAME>  dumušú šá  <NAME>  
+  lú qalla šá  <NAME>  <UNK> <BRK>  
+  ina d d u  <NAME>  lugal 
+  ana  <NAME>  dumušú šá  <NAME>  dumu  <NAME>  
+  itteme kii adiia u<sub>four</sub> NUMkam šá iti ab 
+   <NAME>  lú  <UNK>  šá ina igiia 
+  abbakam anamdakka 
+  lú mukinnu  <NAME>  dumušú šá  <NAME>  
+  dumu lú adgub<sub>five</sub>  <NAME>  dumušú šá 
+   <NAME>  dumu  <NAME>  
+   <NAME>  dumušú šá  <NAME>  dumu  <NAME>  
+   <NAME>  dumušú šá  <NAME>  a lú gírlá 
+   <NAME>  dumušú šá  <NAME>  dumu  <NAME>  
+   <NAME>  dumušú šá  <NAME>  a lú azalag 
+   <NAME>  dumušú šá  <NAME>  dumu  <NAME>  
+   <NAME>  ašú šá  <NAME>  a  <NAME>  <UNK>  
+   <NAME>  dumušú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+   <NAME>  ašú šá  <NAME>  a  <BRK>  
+   <NAME>  dubsar dumušú šá  <NAME>  
+  a lú sanga d KI  it
+  u<sub>four</sub> NUMkam mu NUMkam  <NAME>  
+  lugal KI  luur   <NAME>  ašú šá  <NAME>  
+  dumu  <NAME>  
+
+<ENDTOKEN>   NUM NUM/NUM mana kùbabbar šá ina NUM gín bitqa nuuhhutu 
+  ina úìltì šá NUM mana NUM gín kùbabbar šá ina NUM gín bitqa 
+  nuuhhutu šá  <NAME>  dumušú šá  <NAME>  
+  a  <NAME>  šá ina muhhi  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  kùbabbar a<sub>four</sub>NUM NUM/NUM mana šá ina NUM gín bitqa nuuhhutú 
+   <NAME>  dumušú šá  <NAME>  dumu  <NAME>  ina qaat 
+   <NAME>  dumušú šá  <NAME>  
+  a  <NAME>  mahiir eṭir 
+   <BRK>  
+   <NAME>  ašú šá  <NAME>  dumu lú sanga d 
+   <BRK>  dumušú šá  <NAME>   <NAME>  
+  dumušú šá  <NAME>   <NAME>  dumu šá  <NAME>  
+   <NAME>  dubsar dumušú šá  <NAME>  dumu  <NAME>  
+  KI  it u</sub> NUMkam mu NUMkam 
+   <NAME>  lugal Kku
+<ENDTOKEN>   NUM mana kùbabbar babbarú nuuhhutu šá ina NUM gín bitqa 
+  šá  <NAME>  dumušú šá  <NAME>  
+  ina muhhi  <NAME>  dumušú šá  <NAME>  
+  a  <NAME>  šá iti ina muhhi NUM manée 
+  NUM gín kùbabbar ina muhhišú irabbi 
+  ina iti du<sub>six</sub> kùbabbar a<sub>four</sub>NUM mana 
+  ù ur<sub>five</sub>rašú inamdin 
+  lú mukinnu  <NAME>  dumušú šá  <NAME>  
+  dumu  <NAME>   <NAME>  dumušú šá 
+   <NAME>  a lú sanga d 
+   <NAME>  dumušú šá  <NAME>  a lú nagar 
+   <NAME>  dumušú šá  <NAME>  dumu lú sanga d 
+   <NAME>  dumušú šá  <NAME>  a  <NAME>  
+   <NAME>  dumušú šá  <NAME>  a  <NAME>  
+   <NAME>  dumušú šá  <NAME>  
+   <NAME>  dumušú šá  <NAME>  
+   <NAME>  dumušú šá  <NAME>  
+   <NAME>  dubsar dumušú šá  <NAME>  
+  a lú sanga d KI  itsuub> 
+  u<sub>four</sub> NUMkam mu NUMkam  <NAME>  
+  lugal KI  luur 
+
+<ENDTOKEN>   NUM me gur zúlumma NUM gur šebar NUM dug dannutu requtu 
+  šá  <NAME>  dumu šá  <NAME>  
+  dumu  <NAME>  ina muhhi  <NAME>  dumu šá  <NAME>  
+  a  <NAME>  ù  <NAME>  lú qalla 
+  šá  <NAME>  ana kaskalII mimma mala 
+  ina uru u edin ina muhhi zúlumma aʾ NUM me gur 
+  ù šebar aʾ NUM gur ippuuššuʾu 
+   <NAME>  ù  <NAME>  ahatašúnu 
+  adi NUMta mumeš šebar u zúlumma 
+  ina igi  <NAME>  u  <NAME>  ina sagdu 
+  NUMta mumeš šebar ù zúlumma dug dannutu 
+  ina sagdušúnu ana  <NAME>  
+  ina é hahuru inadinuʾu ina muanna 
+  NUM mana kùbabbar  <NAME>  u  <NAME>  ana 
+   <NAME>  inamdinʾu 
+  adi NUMta mumeš idi é  <NAME>  
+  ana  <NAME>  u  <NAME>  ul imahri 
+  lú mukinnu  <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  dumu šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+  a lú šitim  <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  dumu  <NAME>   <NAME>  
+  dumu šá  <NAME>  a lú NUMšú  <NAME>  lú umbisag a  <NAME>  
+  KI  itsuub> NUMkam mu NUMkam  <NAME>  
+  lugal Kgaur 
+   <NAME>  ašú šá  <NAME>  a lú galdù 
+   <NAME>  ašú šá  <NAME>   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  a lú nédu<sub>eight</sub> 
+
+<ENDTOKEN>   NUM gur šebar šá  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  ina muhhi  <NAME>   
+  ašú šá  <NAME>  ina u<sub>four</sub> NUMkam šá iti gan 
+  NUM gur šebar ina uru šášàuruaa ana 
+   <NAME>  inamdin 
+  elat gu<sub>four</sub>meš šá ana hala šá ina igi 
+   <NAME>  šenumun 
+  ù kiissatu<sub>four</sub> gu<sub>four</sub>meš šá mu NUMkam 
+   <NAME>  ina šuII 
+   <NAME>  eṭiir 
+  lú mukinnu  <NAME>  ašú šá 
+   <NAME>   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  
+  ašú šá  <NAME>   <NAME>  
+  ašú šá  <NAME>  lú umbisag  <NAME>  
+  ašú šá  <NAME>  K  iti gan u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  
+   <BRK>  ašú šá  <NAME>  ul mahiir 
+  lugal Kgaur 
+
+<ENDTOKEN>   zúlumma irbi šá uru šahrinu 
+  šá mu NUMkam  <NAME>  lugal 
+  NUM gur  <NAME>  a  <NAME>  
+  šá ká šá f 
+  NUM gur  <NAME>  a  <NAME>  
+  šá ká šá garin kaprinu 
+  NUM gur NUM pi  <NAME>  
+  a  <NAME>  šá ká šá é arbaaa 
+  šánuú ká 
+  NUM gur NUM pi  <NAME>  lú ašgab 
+
+<ENDTOKEN>   NUM/NUM mana NUM gín kùbabbar šá ina NUM gín bitqa 
+  nuuhhutu šá  <NAME>  
+  dumu šá  <NAME>  dumu lú ìrd 
+  ina ugu  <NAME>  dumu šá  <NAME>  
+  a  <NAME>  ina iti bár ina sagdušú 
+  inamdin 
+  lú mukinnu  <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá 
+   <NAME>  a  <NAME>   <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  dubsar 
+  dumušú šá  <NAME>  a  <NAME>  
+  KI  it u</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal Kku
+<ENDTOKEN>   NUM NUM/NUM mana kùbabbar babbarú šá ina NUM gín bitqa nuuhhutú 
+  šá  <NAME>  ašú šá  <NAME>  a  <NAME>  
+  ina muhhi  <NAME>  ašú šá  <NAME>  a  <NAME>  
+  ésu šá ina sila šá mušepišú šá hubur šá da é 
+   <NAME>  ašú šá  <NAME>  ù da é  <NAME>  
+  maškanu šá  <NAME>  idi é iaanu ù 
+  ur<sub>five</sub>ra kùbabbar iaanu adi muhhi šá kùbabbar aʾ NUM NUM/NUM mana 
+  šá ina NUM gín bitqa nuuhhutu  <NAME>  
+  inniiṭṭiir ta u<sub>four</sub> NUMkam šá iti bár 
+  mu NUMkam é ina igi  <NAME>  
+  lú mukinnu  <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+  ašú šá  <NAME>  a lú sipa gu<sub>four</sub>  <NAME>  
+  ašú šá  <NAME>  a lú sanga d  <NAME>  
+  ašú šá  <NAME>   <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>   <NAME>  
+  ašú šá  <NAME>   <NAME>  ašú šá  <NAME>  a  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  lú dubsar ašú šá  <NAME>  
+  KI  itu</sub> NUMkam mu NUMkam 
+   <NAME>  lugal Kku
+<ENDTOKEN>   NUM mana NUM gín kùbabbar babbarú šá ina NUM gín bitqa nuuhhutu 
+  šá  <NAME>  ašú šá  <NAME>  a  <NAME>  
+  ina ugu  <NAME>  ašú šá  <NAME>  
+  a  <NAME>  šá iti ina ugu NUM manée NUM gín kùbabbar 
+  ur<sub>five</sub>ra kùbabbar a<sub>four</sub> NUM mana NUM gín babbarú ina ugušú 
+  irabbi NUM gur šenumun mirišú NUMta kámeš 
+  šá ana ússadu  <NAME>  a lú ašgab u ússadu 
+   <NAME>  ašú šá  <NAME>  maškanu 
+  šá  <NAME>  buru<sub>fourteen</sub> ašà šá ina šenumun šuatì 
+  illaa  <NAME>  ikkal mimma 
+  šá alla ur<sub>five</sub>ra kùbabbar ittiru 
+  ina igi  <NAME>  u šá alla  
+  ur<sub>five</sub>ra imaṭuú  <NAME>  
+  ana  <NAME>  úšallam 
+  lú mukinnu  <NAME>  ašú šá  <NAME>  
+  a lú émaš d  <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú 
+  šá  <NAME>  a lú émaš d 
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  a lú galdù 
+   <NAME>  dubsar ašú šá  <NAME>  
+  a  <NAME>  KI  it 
+  u<sub>four</sub> NUMNUMlákam mu NUMkam  <NAME>  
+  lugal KI  u r 
+<ENDTOKEN>   lú dumudùmeš šá ina igišúnu 
+   <NAME>  puut  <NAME>  
+  ašú šá  <NAME>  ina šuII  <NAME>  
+  ašú šá  <NAME>   <NAME>  iš 
+   <NAME>  ašú šá  <NAME>  a lú galdù 
+   <NAME>  ašú šá 
+   <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+   <BRK>   <NAME>  ašú šá  <NAME>  
+   <BRK>  <UNK> <UNK> é haahhuru 
+  iti kin u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal K  lugal kurkur 
+
+<ENDTOKEN>   NUM gur šebar NUM gín kùbabbar babbarú nuuhhutú NUM en nésep 
+  šá hi qulitu<sub>four</sub> šá  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  ina muhhi 
+   <NAME>  ašú šá  <NAME>  ina qíit 
+  šá iti sig<sub>four</sub> šá mu NUMkam  <NAME>  
+  šebar a<sub>four</sub> NUM gur tiltì ina mašihu 
+  šá  <NAME>  ina ugu NUM et rittu<sub>four</sub> 
+  ina uru šahriini ina é  <NAME>  
+  inamdin kùbabbar a<sub>four</sub> NUM gín babbarú nuuhhutú 
+  NUM en nésep šá himetu<sub>four</sub> qulitu<sub>four</sub> 
+  inamdin úìltì igitu<sub>four</sub> 
+  šá NUM gur šebar ina sagdu ù NUM en UD<UNK> <BRK>  
+  u himetu<sub>four</sub> qulitu<sub>four</sub> šá  <NAME>  
+  šá ina muhhi  <NAME>   <NAME>  
+  kii útirri ana  <NAME>  ittadin 
+  kùbabbar a<sub>four</sub> NUM gín babbarú šá ana  <NAME>  
+  lú tukú šá  <NAME>  sìna lú mukinnu 
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  dumu  <NAME>  
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  lú umbisag 
+   <NAME>  ašú šá  <NAME>  a  <NAME>  
+  uru édu<sub>ten</sub>gad iti sig<sub>four</sub> u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  lugal K  u kurkur 
+
+<ENDTOKEN>   NUM mana kùbabbar šá  <NAME>  
+  ašú šá  <NAME>  
+  ina muhhi  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  
+  ina iti du<sub>six</sub> kùbabbar ina sagdušú 
+  ina KI  in 
+  lú mukinnu  <NAME>  
+  ašú šá  <NAME>  a šú šá lú simug 
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+  u lú umbisag  <NAME>  ašú šá  <NAME>  a  <NAME>  
+  uru úrazumetanu 
+  iti gu<sub>four</sub> u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal kurkur 
+
+<ENDTOKEN>   NUM pi NUM qa šenumun ašà edin giš giš zaqpi 
+  iṣṣi biltu<sub>four</sub> giš NI turmeš ù kišubbuú 
+  elaani i<sub>seven</sub> šá  <NAME>  du<sub>eight</sub> kágal d 
+  pihaat KI  
+  ina lìbbi NUM NUM.NUM šenumun ganba šá ina iti sig<sub>four</sub>ga 
+  u<sub>four</sub> NUMkam mu NUMkam  <NAME>  lugal KI  luuršu 
+   <BRK>  
+  NUM me NUM kùš ús anta tu<sub>fifteen</sub> martu ússadu 
+   <NAME>  šeš šá  <NAME>  nadin ašà 
+  NUM me NUM kùš ús kita tu<sub>fifteen</sub> kurra ússadu 
+  ašà nudunnée šá f 
+  dumumí šá  <NAME>  nadin ašà 
+  NUM kùš sag anta tu<sub>fifteen</sub> sisá ússadu 
+   <NAME>  dumušú šá  <NAME>  dumu lú sanga d 
+  NUM kùš sag kita tu<sub>fifteen</sub> u<sub>eighteen</sub>lu gú i<sub>seven</sub> šá  <NAME>  
+   <BRK>  
+  šunigin NUM pi NUM qa šenumun mišiihtu<sub>four</sub> ašà šuati 
+  ina lìbbi NUM pi NUM qa šenumun giš giš 
+  kii NUM nindahá šenumun ana NUM gín kùbabbar 
+  NUM NUM/NUM mana NUM gín kùbabbar šiimišú 
+  ù šá NUM qa šenumun kišubbuú NUM gín kùbabbar šámšú 
+  itti  <NAME>  dumušú šá  <NAME>  
+  dumu lú adgub<sub>five</sub>  <NAME>  dumušú šá  <NAME>  
+  dumu lú adgub<sub>five</sub> ganba imbéema 
+  NUM NUM/NUM mana NUM gín kùbabbar išam šámšú gamrutu 
+  ù NUM gín kùbabbar kii atru iddiinšú 
+   <BRK>  
+  šunigin NUM NUM/NUM manakùbabbar šibiirti 
+  ina qáat  <NAME>  dumušú šá  <NAME>  
+  dumu lú adgub<sub>five</sub>  <NAME>  dumušú šá  <NAME>  
+  dumu lú adgub<sub>five</sub> šiimišú ašàšú kùbabbar tiltì mahir 
+  apil rugummaa ul iši ul iturruma 
+  ahameš ul iraggumu matima ina šešmeš 
+  dumumeš kiimtu<sub>four</sub> nésutu<sub>four</sub> ù salatu<sub>four</sub> 
+  šá dumu lú adgub<sub>five</sub> šá iraaggumu umma ašà šuati 
+  ul nadinma kùbabbar ul mahiir paqíranu kùbabbar imhuru 
+  adi NUMtaàm itanaappaal 
+   <BRK>  
+  ina kanaku imdub šuati 
+   <BRK>  
+  igi  <NAME>  dumušú 
+  šá  <NAME>  dumu lú ennun kágal 
+   <NAME>  dumušú šá  <NAME>  dumu  <NAME>  
+   <NAME>  dumušú šá  <NAME>  dumu  <NAME>  
+   <NAME>  dumušú šá  <NAME>  dumu  <NAME>  
+   <NAME>  dubsar dumu  <NAME>  
+  KI  itza<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal KI  luur  ṣupur  <NAME>  nadin ašà kima na<sub>four</sub>kišibšú 
+  na<sub>four</sub>kišib /  <NAME>  / dubsar 
+
+<ENDTOKEN>   NUM mana NUM gín kùbabbar šá  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  ina muhhi  <NAME>  ašú šá  <NAME>  
+  a  <NAME>  sipa anšekurra ina iti u<sub>four</sub> NUMkam 
+  šá iti sig<sub>four</sub> kùbabbar aʾ NUM mana NUM gín 
+  inamdin fd 
+  u f dumumíšú maškanu 
+  šá  <NAME>  lú tukú šánamma 
+  ina muhhi ul išallaṭ adi muhhi 
+  šá  <NAME>  kùbabbaršú išallimu 
+  lú mukinnu  <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+  a lú ašgab lú umbisag  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  KI  
+  iti gu<sub>four</sub> u<sub>four</sub> NUMkam mu NUMkam  <NAME>  
+  lugal KI  luur
+<ENDTOKEN>   NUM/NUM mana kùbabbar šá  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  ina muhhi  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  
+  u<sub>four</sub> NUMkam šá iti kin inamdin 
+  kùbabbar reehtu<sub>four</sub> kù nudunnuú 
+  šáf damšú 
+  šá šenumun šá ugu bitqa šá  <NAME>  
+  maškanu ṣabtatu<sub>four</sub> 
+  lú mukinnu  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>  
+   <NAME>  lú umbisag ašú šá  <NAME>  
+  a  <NAME>  K  iti kin u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal Kgaur 
+
+<ENDTOKEN>    <BRK> ina kùbabbar reheet šimi ašà šá 
+   <NAME>  ašú šá  <NAME>  dumu lú sanga d 
+  ina šuII  <NAME>  ašú šá  <NAME>  dumu  <NAME>  
+   <UNK> <UNK> <UNK>  
+   <BRK>  
+   <BRK>  dumu lú šuha KI  itK>>NUM</sub> <UNK>kam 
+   NUM’ 
+  mu <UNK>kam  <NAME>  lugal KI  luur
+<ENDTOKEN>   NUM me NUM gur zúlumma NUM/NUM gín kùbabbar 
+  NUM pitu<sub>four</sub> šá sumsar šá  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  ina muhhi  <NAME>  a  <NAME>  ina iti du<sub>six</sub> 
+  NUM me NUM gur zúlumma ina mašihu 
+  šá  <NAME>  ina muhhi NUM et rittu<sub>four</sub> 
+  inamdin ina iti še kùbabbar ù sumsar 
+  ina piqittu<sub>four</sub> šibšú ašàšú inamdin 
+  ašàmeš mahritu<sub>four</sub> é maškanu 
+  ina kùš šá  <NAME>  maškanu 
+  šá  <NAME>  elat úìltìmeš 
+  mahritu<sub>four</sub> šá muhhi  <NAME>  
+  lú tukú šánamma ina muhhi ul išallat 
+  adii  <NAME>  išallim 
+  lú mukinnu  <NAME>  
+  a  <NAME>  <UNK> ri  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+   <NAME>  a  <NAME>  u lú umbisag 
+   <NAME>  a  <NAME>  
+  a  <NAME>  nagar uru šahriinnu 
+  iti gu<sub>four</sub> u<sub>four</sub> NUMkam mu NUMkam 
+  kambuziiá lugal Kkuš 
+  kùbabbar šá rikis riiksu murub<sub>four</sub> 
+  šá mu NUMkam  <NAME>  
+  ana  <NAME>  sìna 
+
+<ENDTOKEN>   NUM gur zúlumma zaglu ašà 
+  šá ina ugu harri šá  <NAME>  
+  šá  <NAME>  ašú šá  <NAME>  
+  a  <NAME>  ina muhhi  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  ina iti apin zúlumma a aʾ NUM gur 
+  ina NUM et rittu<sub>four</sub> ina haṣari inamdin 
+  ki NUM gur tuhalla mangaga gipuú šá úhinu 
+  biltu<sub>four</sub> šá huṣabi NUM dariku 
+  inamdin elat úìltì e<UNK> <UNK> <UNK>  
+   <BRK>  u elat epuuš 
+  nìka<sub>nine</sub> šá mu NUM  <BRK>  
+  habu úhinu inamdin 
+  lú mukinnu  <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  
+   <NAME>  a  <NAME>  
+   <NAME>  lú umbisag ašú šá  <NAME>  
+  a  <NAME>  KI  
+  iti kin u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal Kga  kurkursic 
+  sissinšú ul išallim 
+
+<ENDTOKEN>    <NAME>  ašú šá  <NAME>  
+  a  <NAME>  ina huud lìbbišú 
+  NUM gur šenumun zaqpu ina šenumunšú 
+  šá ina ugu harri šá  <NAME>  
+  NUMta lúuttu<sub>four</sub> údee é 
+  itti f dumumíšú 
+  ana nudunnée ana  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  iddin NUMtaàm šáṭari ilquú 
+  lú mukinnu  <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú  
+  šá  <NAME>  a  <NAME>  
+   <NAME>  lú dubsar 
+  ašú šá  <NAME>  a  <NAME>  
+  uru paši iti zíz u<sub>four</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal KI  luur
+<ENDTOKEN>   NUM gín kùbabbar ina lìbbi NUM gín kùbabbar 
+  nuuhhutú f 
+  dam  <NAME>  dumumísu 
+  šá  <NAME>  a  <NAME>  
+  ù  <NAME>  lú qalla 
+  šá  <NAME>  ina ur<sub>five</sub>ra kùbabbaršúnu 
+  ina šuII  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  
+  maharruʾu 
+  NUM enataàm gíddameš 
+  iltequú 
+  lú mukinnu  <NAME>  
+  ašú šá  <NAME>  a lú bahar<sub>two</sub> 
+   <NAME>  ašú šá  <NAME>  
+  lú umbisag  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  
+  KI  itu</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal Kgaur 
+
+<ENDTOKEN>   NUM/NUM mana kùbabbar NUM piti šá sumsar 
+  šá  <NAME>  lú qalla šá 
+   <NAME>  ašú šá  <NAME>  
+  ina muhhi  <NAME>  ašú šá  <NAME>  
+  iti bár kùbabbar a<sub>four</sub> NUM/NUM mana ù iti  <BRK>  
+  piti a<sub>four</sub> NUM sumsar  <BRK>  
+  inamdin elat úìltì 
+  mahriti ina iti  <BRK>  
+  úìltìšú inamdin 
+  lú mukin<sub>seven</sub>  <NAME>  ašú šá 
+   <NAME>  a lú simug 
+   <NAME>  ašú šá  <NAME>  
+   <NAME>  <UNK> <UNK> d ašú šá  <NAME>  
+  u lú umbisag  <NAME>  ašú šá 
+   <NAME>  KI  it<ssub> 
+  u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal KI  
+  lugal kurkur 
+
+<ENDTOKEN>   NUM mana kùbabbar šá  <NAME>  ašú šá  <NAME>  
+  a  <NAME>  ina muhhi  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  šá iti 
+  ina muhhi NUM manée NUM gín ina muhhišú irabbi 
+  mimmašú šá uru u edin maškanu 
+  šá  <NAME>  
+  lú mukinnu  <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  ašú šá  <NAME>  
+  a  <NAME>  énaata u lú umbisag  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  KI  it u</sub> NUMkam mu NUMkam  <NAME>  
+  lugal Kkuš 
+
+<ENDTOKEN>   NUM gur šá i<sub>seven</sub> eššú 
+  NUM gur  <NAME>  
+  NUM gur  <NAME>  
+  NUM gur <NAME>  
+  NUM gur <NAME>  
+  NUM gur NUM.NUM 
+   <NAME>  
+  NUM NUM.NUM 
+  f 
+  pap NUM gur šebar 
+  iti bár u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal K  lugal kurkur nìka<sub>nine</sub> épšú 
+
+<ENDTOKEN>   f dumumíšú 
+  ù f dumumíšú šánitu<sub>four</sub> 
+  šá šiizbi šá  <NAME>  dumu šá  <NAME>  
+  ina uru humadešú ana NUM NUM/NUM mana kùbabbar 
+  ana  <NAME>  dumu šá  <NAME>  dumu  <NAME>  
+  iddinu NUM NUM/NUM mana kùbabbar šuatú  <NAME>  
+  ina šuII  <NAME>  eṭiir úìltì šá šám gamrutu 
+  šá lútú  <NAME>  kii útirru 
+  ana  <NAME>  ittadin 
+  u<sub>four</sub>mu šá  <NAME>  lú dumu šipri 
+  ana  <NAME>  išapparu lútú 
+  ana lú dumu šipri šá  <NAME>  ina KI  inn   lútú šá ina lìbbi miṭutu u aldatu 
+  šá  <NAME>  šii NUM entaàm šáṭari iltequú 
+  lú mukinnu  <NAME>  dumu šá  <NAME>  dumu  <NAME>  
+   <NAME>  dumušú šá  <NAME>  dumu  <NAME>  
+   <NAME>  lú sag lugal  <NAME>  dubsar 
+  dumušú šá  <NAME>  dumu  <NAME>  
+  uru humadešú iti ab u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal kurkur 
+
+<ENDTOKEN>   NUM mana NUM gín kùbabbar babbarú šá ina NUM gín bitqa 
+  nuuhhutu šá  <NAME>  dumu šá  <NAME>  
+  a  <NAME>  ina muhhi  <NAME>  
+  dumu šá  <NAME>  a lú simug šá mu 
+  ina muhhi NUM manée NUM gín kùbabbar 
+  ina muhhišú irabbi 
+  lú mukinnu  <NAME>  dumu šá  <NAME>  a  <NAME>  
+   <NAME>  dumu šá  <NAME>  a lú sipa anšekurra 
+   <NAME>  dumu šá  <NAME>  dumu lú gal 
+   <NAME>  dumu šá  <NAME>  dumu lú sipa anšekurra 
+   <NAME>  dumu šá  <NAME>  a  <NAME>  
+   <NAME>  dumu šá  <NAME>  a  <NAME>  
+   <NAME>  dumu šá  <NAME>  a lú sanga d 
+   <NAME>  lú umbisag ašú šá  <NAME>  a <NAME>  
+  KI  itNUM NUM</sub> NUMkam mu NUMkam 
+   <NAME>  lugal Kku
+<ENDTOKEN> NUM en dug kaš du<sub>ten</sub>ga malu&lceil;ú&rceil;// NUM NUM.NUM.NUM šebar //
+šá  <NAME>  ašú šá  <NAME> 
+šá šuII  <NAME>  lú šá  <NAME> 
+ina muhhi  <NAME>  ašú šá  <NAME> 
+ina iti mu NUM kam šebar a’
+NUM NUM.NUM.NUM. NUM en dug sa<sub>five</sub>
+inamdin
+R.
+lú  <NAME>  ašú šá  <NAME> 
+ <NAME>  ašú šá  <NAME> 
+ <NAME>  ašú šá  <NAME> 
+ <NAME>  ašú šá  <NAME> 
+lú  <NAME>  ašú šá  <NAME> 
+ KI  it>še u<sub>four</sub> NUMkam
+mu NUMkam  <NAME>  lugal kurkur
+L.E.
+&#NUMNUM;upur /  <NAME> 
+
+<ENDTOKEN> NUM gur NUM.NUM.NUM. duhnu ina giš šá šenumun d
+u i<sub>seven</sub> buranun KI  šNUM <NAME>  lugal kurkur šá ina igi  <NAME> 
+a šá  <NAME>  u  <NAME>  dumu šá
+ <NAME>   <NAME>  šá ina muhhi
+giš šá i<sub>seven</sub> d dumu šá  <NAME>  lú
+šá  <NAME>  lú ina šuII
+ <NAME>  a šá  <NAME>  ù
+ <NAME>  a šá  <NAME> 
+mahiir e&#NUMNUM;ir adi NUM gur duhnu
+šá  <NAME>  dumu šá  <NAME>  mahra
+R.NUM
+lú  <NAME>  dumu šá  <NAME> 
+lú šá  <NAME> 
+ <NAME>  a šá  <NAME>   <NAME> 
+a šá  <NAME>   <NAME>  a šá  <NAME> 
+ <NAME>  a šá  <NAME>   <NAME>  dumu šá
+ <NAME>   <NAME>  a šá  <NAME> 
+ <NAME>  lú dumu šá  <NAME>  KI  <tiab
+u<sub>four</sub> NUMkam mu NUMkam  <NAME> 
+lugal kurkur
+L<UNK>.E.
+na<sub>four</sub> kišib /  <NAME>  / šá ina muhhi giš / šá i<sub>seven</sub> d
+
+<ENDTOKEN>  <NAME>  dumu šá  <NAME>  šá ana  <NAME> 
+a šá  <NAME>  iqbuú umma NUM me &#NUMNUM;ienu
+babbarti u &#NUMNUM;alindu tatabak árku  <NAME> 
+iqbuú umma &#NUMNUM;ienu elat
+NUM me NUMta ul abuuk u<sub>four</sub>mu
+ina šuII &#NUMNUM;ibitti luú batiqu luú mukinnu
+árkišú elat &#NUMNUM;ienu a<sub>four</sub> NUM me NUMta
+ittakšádu NUM me &#NUMNUM;ienu
+ <NAME>  ana  <NAME> 
+inamdin
+R.
+lú  <NAME>  a šá  <NAME> 
+ <NAME>  a šá  <NAME> 
+ <NAME>  a šá  <NAME>   <NAME>  a šá
+ <NAME> 
+ <NAME>  lú dumu šá  <NAME>  KI 
+
+iti u<sub>four</sub> NUMkam mu NUMkam
+ <NAME>  lugal kurkur
+L<UNK>.E.
+&#NUMNUM;upur  <NAME> 
+
+<ENDTOKEN> NUM me gur šebar // šá giš šá šenumun gabbi // nígga lugal šá muhhi  <NAME>  dumu šá
+ <NAME>  árku šebar a’ NUM me gur adii katú
+šá  <NAME>  šá lú lú šá  <NAME> 
+u  <NAME>  dumumeš šá  <NAME>  ina šuII
+ <NAME>  mahiir e&#NUMNUM;iru’
+úšáazzaazmaa’ šebar a’ NUM me gur ina giš tar&lceil;&#NUMNUM;u&rceil;
+ <NAME>  u  <NAME>  itti
+ <NAME>  u  <NAME>  ana
+ <NAME>  inamdinnuu’
+R.NUM
+lú  <NAME>  dumu šá  <NAME> 
+ <NAME>  dumu šá  <NAME> 
+ <NAME>  dumu šá  <NAME> 
+ <NAME>  dumu šá  <NAME> 
+ <NAME>  lú uru
+iti u<sub>four</sub> NUMkam mu &lceil;NUM
+ <NAME>  lugal kurkurmeš
+L<UNK>.E.
+na<sub>four</sub> kišib u unqu / šá  <NAME>  / dumu šá  <NAME> 
+
+<ENDTOKEN> NUM gín kùbabbar babbarú ina giš ašà šá
+&lceil;šá&rceil; mu NUMkam  <NAME>  a šá
+ <NAME>  ina šuII  <NAME> 
+a šá  <NAME>  mahir
+elat NUM ud<sub>five</sub> haba úhina šá mu NUM ina ugušú
+ NUM
+lú
+R.
+ <NAME>  a šá  <NAME>   <NAME>  
+a šá  <NAME>   <NAME>  a šá
+ <NAME>   <NAME>  a šá
+ <NAME>   <NAME>  a šá  <NAME> 
+ <NAME>  a šá  <NAME> 
+ <NAME>  lú a šá  <NAME>  KI 
+
+iti u<sub>four</sub> NUMkam mu NUMkam
+ <NAME>  lugal kurkur 
+L<UNK>.E.
+&#NUMNUM;upur /  <NAME> 
+
+<ENDTOKEN>  <NAME>  a šá  <NAME>  ina huud lìbbišú ana  <NAME>  a šá
+ <NAME>  kiaam iqbi umma NUM en gu<sub>four</sub>há ummanni
+ana giš adi NUMta muannameš biinnamma ina muanna
+NUM gur šebar ina giš šá úsiištu<sub>four</sub> luddakka árki
+ <NAME>  išmeešuma NUM en gu<sub>four</sub>há ummanni ana giš
+adi NUMta muannameš iddaášši ina muanna NUM gur šebar
+ina giš šá úsiištu<sub>four</sub> inamdin ta iti mu NUMkam
+ <NAME>  lugal gu<sub>four</sub>há adi NUMta muanname ina igišú
+R.
+lú  <NAME>  a šá  <NAME>   <NAME>  a šá
+ <NAME>   <NAME>  a šá  <NAME>   <NAME>  a šá
+ <NAME>   <NAME>  a šá  <NAME>   <NAME>  a šá
+ <NAME>   <NAME>  a šá  <NAME>   <NAME>  a šá
+ <NAME>   <NAME>  a šá  <NAME> 
+lú  <NAME>  a šá  <NAME>  KI  <tisig<sub>four</sub> u<sub>four</sub> NUMkam
+mu NUM  <NAME>  lugal kurkur 
+
+<ENDTOKEN> NUM me NUM gur zúlumma zagudu ašà
+šá ina uru šá lú
+šá  <NAME>  é maškanu šá  <NAME> 
+a šá  <NAME>  ina muhhi  <NAME>  a šá
+ <NAME>   <NAME> 
+a šá  <NAME>   <NAME> 
+a šá  <NAME>  u  <NAME>  lú
+ina iti šá mu NUMkam zúlumma a’
+NUM me NUM gur ina giš šá  <NAME> 
+ina ha&#NUMNUM;ari sìnuu’ ki NUM gur
+tuhal lìbbi mangaga
+biltu<sub>four</sub> šá hu&#NUMNUM;abi
+sìnuu’
+R.NUM
+lú  <NAME>  a šá  <NAME> 
+ <NAME>  a šá  <NAME> 
+ <NAME>  a šá  <NAME> 
+lú  <NAME>  a šá  <NAME> 
+ KI  it>du<sub>six</sub> u<sub>four</sub> NUMkam
+mu NUMkam  <NAME> 
+lugal kurkur
+
+<ENDTOKEN> NUM gur NUM.NUM.NUM šegišì hala lugal šá ina usbari šá lugal
+šá ina muhhi i<sub>seven</sub> lugal šá ina igi  <NAME>  a šá
+ <NAME>   <NAME>  a šá
+ <NAME>  dumu lú u  <NAME>  lú
+šá  <NAME>  ina naášpaáštu<sub>four</sub>
+šá  <NAME>  a šá  <NAME> 
+ina šuII  <NAME>  mahruu’
+úšáazzazuma šegišìa’ NUM gur NUM.NUM.NUM
+ <NAME>  u  <NAME>  itti  <NAME> 
+ana  <NAME>  inamdinu’
+ <NAME>  a šá  <NAME> 
+R.NUM
+lú  <NAME>  a šá  <NAME> 
+ <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+ <NAME>  a šá  <NAME> 
+ <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+ <NAME>  a šá  <NAME>   <NAME>  a šá
+ <NAME>   <NAME>  a šá  <NAME> 
+lú  <NAME>  a šá  <NAME>  KI 
+
+iti u<sub>four</sub> NUMkam mu NUMkam
+ <NAME>  lugal kurkur
+L<UNK>.E.
+unqu /  I
+na<sub>four</sub> kišib / Id Id</sup>nàúšezib
+
+<ENDTOKEN> giš ù lúgíddameš šá ultu KI 
+
+adi i<sub>seven</sub> kabari šá riihtu<sub>four</sub> šebar šá qéme
+šá  <NAME>  a šá  <NAME>  šá ana
+ <NAME>  lú lugal a šá  <NAME> 
+iIŠki  <NAME>  a šá  <NAME>   <NAME> 
+a šá  <NAME>   <NAME>  a šá  <NAME> 
+mar šipirata šá  <NAME>  lú
+šá  <NAME>  ina šuII  <NAME>  a šá
+ <NAME>  mahruu’ e&#NUMNUM;iru’
+R.NUM
+lú  <NAME>  lú a šá  <NAME> 
+ <NAME>  lú šá  <NAME> 
+a šá  <NAME>   <NAME>  a šá  <NAME> 
+ <NAME>  a šá  <NAME>   <NAME>  a šá
+a šá  <NAME>  dini&#NUMNUM;  <NAME>  a šá  <NAME> 
+lú  <NAME>  a šá  <NAME>  KI  <tibár
+u<sub>four</sub> NUMkam mu NUMkam  <NAME>  lugal kurkur
+R.
+&#NUMNUM;upur /  <NAME>  u  <NAME> 
+L.E.
+na<sub>four</sub> kišib  <NAME>  / lú a šá  <NAME> 
+L<UNK>.E.
+na<sub>four</sub> kišib  <NAME>  / lú / a šá  <NAME> 
+U.E.
+na<sub>four</sub> kišib  <NAME>  / a šá  <NAME>  enšúnu
+
+<ENDTOKEN> NUM me NUM gur zúlumma šá  <NAME>  a šá  <NAME> 
+ina muhhi  <NAME>  u  <NAME>  ameš šá  <NAME> 
+u  <NAME>  a šá  <NAME>  šá lú šá lú
+dumumeš hisaanu šá ina uru šá ina muhhi i<sub>seven</sub> harripiqudu
+ina iti šá mu NUMkam zúlumma a<sub>four</sub> NUM me NUM gur
+ina giš šá  <NAME>  ina ha&#NUMNUM;ari inamdinu’
+ašàšúnu é giš zaqpi u pi<sub>four</sub> šulpu
+šá ina muhhi i<sub>seven</sub> harripiqudu maškanu zúlumma a<sub>four</sub>
+NUM me NUM gur ina igi  <NAME>  lú šánamma
+ana muhhi ul išalla&#NUMNUM; adi  <NAME>  lú inni&#NUMNUM;i&#NUMNUM;iir
+zúlumma šám kùbabbar ilki qéme šá lugal
+barra u mimma nadanaatú šá é lugal šá ina muhhi
+šúnu u giš sìnu <UNK><UNK><UNK><UNK><UNK>šuu
+R.NUM
+lú  <NAME>   <NAME>  a šá  <NAME> 
+ <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+ <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+lú  <NAME>  a šá  <NAME>  KI  <tikin u<sub>four</sub> NUMkam
+mu NUMkam  <NAME>  lugal kurkur
+L.E.
+&#NUMNUM;upur  <NAME>  / u  <NAME>  / ameš šá  <NAME> 
+R.
+na<sub>four</sub> kišib /  <NAME>  a šá /  <NAME> 
+
+<ENDTOKEN> NUM me NUM gur zúlumma NUM me NUM gur šebar šá  <NAME>  a šá
+ <NAME>  ina muhhi  <NAME>  a šá
+ <NAME>  ina iti mu NUMkam
+zúlumma a’ NUM me NUM gur u šebar a’ NUM me NUM gur
+ina giš šá  <NAME>  ina uru
+inamdin ašàšú ziqpi u pi<sub>four</sub> šulpu
+maškanu ina igi  <NAME>  lú šánumma
+ana muhhi ul išalla&#NUMNUM; adi  <NAME> 
+rašusu išallim
+R.NUM
+lú  <NAME>  a šá  <NAME>   <NAME>  a šá
+ <NAME>   <NAME>  a šá
+ <NAME>   <NAME>  a šá  <NAME> 
+ <NAME>  a šá  <NAME> 
+lú  <NAME>  a šá  <NAME>  KI 
+
+iti u<sub>four</sub> NUMkam mu NUMkam  <NAME> 
+lugal kurkur
+
+<ENDTOKEN>       NUM mana kùbabbar ilki gamrutu lú lugal qéme šá lugal barra
+      u mimma nadanaatú šá é lugal šá ultu iti
+      šá mu NUMkam adi qiit iti
+        mu sag namlugalgálla
+       <NAME>  šá giš šá hu&#NUMNUM;ari
+        šá ina uru
+      éd šá
+        ina gú i<sub>seven</sub> harripiqudu
+      u giš šá lú
+        égalmeš šá ina gú i<sub>seven</sub> d šá ina uru
+      šá ina igi  <NAME>  a šá&#NUMNUMNUM;  <NAME>  kùbabbar a’
+      NUM mana ilki gamrutu šá
+        ina muhhi giš mumeš
+       <NAME>  lú šá é lú
+      a šá  <NAME>  ina šuII  <NAME>  a šá  <NAME> 
+      mahir e&#NUMNUM;ir
+      R.NUM
+      lú
+       <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME> 
+      lú  <NAME>  a šá  <NAME>  KI  <tiše &#NUMNUMNUM;u<sub>four</sub> NUM
+      mu sag namlugalgálla  <NAME>  lugal kurkur
+      L.E.
+      na<sub>four</sub> kišib /  <NAME> 
+        / lú / šá é lú / a šá  <NAME> 
+      L<UNK>.E.
+      na<sub>four</sub> kišib /  <NAME> 
+        / a šá  <NAME> 
+
+<ENDTOKEN>       NUM me NUMšu NUM gur NUM.NUM.NUM. zúlumma šá  <NAME> 
+      a šá  <NAME> 
+        ina muhhi  <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá
+       <NAME>  u  <NAME>  a šá  <NAME>  u en banmeššúnu gabbi
+        šá
+      ina iti šá mu
+        NUMkam zúlumma a’ NUM me NUMšu NUM gur NUM.NUM.NUM.
+      ina giš šá  <NAME>  ina uru
+      sìnuu’ NUM en puut NUMi ana kar našuú šá qéreb it&#NUMNUM;ir
+      a–šàšúnu zaqpu u pi<sub>four</sub> šulpu é giš
+      šá lú šá lú šá é  <NAME> 
+      šá gú i<sub>seven</sub> harripiqudu maškanu zúlumma a’
+      NUM me NUMšu NUM gur NUM.NUM.NUM. ina igi  <NAME>  lú
+      šánumma ana muhhi ašà mumeš ul išalla&#NUMNUM;
+      adi  <NAME>  tukúsu išallimmu
+      R.NUM
+      lú  <NAME>  a šá  <NAME>   <NAME>  a šá
+       <NAME>   <NAME>  a šá  <NAME>   <NAME> 
+      a šá  <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá
+       <NAME>  u  <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME> 
+      lú  <NAME>  a šá  <NAME> 
+        KI  <tisig<sub>four</sub>
+      u<sub>four</sub> NUMkam mu NUMkam  <NAME>  lugal kurkur
+      U.E.
+      &#NUMNUM;upur /  <NAME>  u lú
+      L.E.
+      na<sub>four</sub> kišib /  <NAME> 
+        a šá /  <NAME> 
+      L<UNK>.E.
+      na<sub>four</sub> kišib /  <NAME>  / a šá  <NAME> 
+      R.
+      na<sub>four</sub> kišib /  <NAME> 
+        a šá /  <NAME> 
+
+<ENDTOKEN>       NUM me NUMšu gur zúlumma šá  <NAME> 
+      a šá  <NAME> 
+        ina muhhi  <NAME>  a šá
+       <NAME>  ina iti mu NUMkam
+      zúlumma a<sub>four</sub> NUM me NUMšu
+        gur ina giš
+      šá  <NAME>  ina uru
+      ina ha&#NUMNUM;ari
+        inamdin ašàšú é giš
+      šá ina uru maškanu zúlumma a’
+      NUM me NUMšu gur ina igi  <NAME>  lú
+      šánamma ina muhhi ul
+        išalla&#NUMNUM; adi
+       <NAME>  lú inkarri
+      R.
+      lú
+       <NAME>  a šá  <NAME>   <NAME>  a šá
+       <NAME>   <NAME> 
+        a šá  <NAME> 
+       <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+      lú  <NAME>  a šá  <NAME> 
+        KI 
+
+      iti u<sub>four</sub> NUMkam mu NUMkam  <NAME> 
+      lugal kurkur
+      L.E.
+      &#NUMNUM;upur  <NAME> 
+      L<UNK>.E.
+      na<sub>four</sub> kišib /  <NAME>  lú
+
+<ENDTOKEN>       NUM gur zúlumma šá  <NAME> 
+        a šá  <NAME> 
+      ina muhhi  <NAME>  u  <NAME>  ameš šá  <NAME> 
+       <NAME>  ameš šá  <NAME> 
+        ina iti mu NUMkam
+       <NAME>  lugal zúlumma a’NUM gur ina giš
+      šá  <NAME>  ina uru
+        šá ina muhhi namgarbàdd
+      inamdinnuu’ NUM en puut NUMi našuú šá
+        qéreb
+      i&#NUMNUM;&#NUMNUM;ir ašàšúnu šenumun zaqpu é giš maškanu
+      zúlumma a’ NUM gur ina igi  <NAME>  lú
+      šánamma ina muhhi ul išal&#NUMNUM;u
+        adi  <NAME> 
+      zúlumma a’ NUM gur innit&#NUMNUM;irri
+      R.
+      lú  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME> 
+      a šá  <NAME>   <NAME> 
+        a šá  <NAME>   <NAME> 
+      a šá  <NAME>   <NAME>  a šá  <NAME> 
+      lú  <NAME>  a šá  <NAME>  urugiš
+      šá ina muhhi namgarbàdd iti
+        u<sub>four</sub> NUMkam
+      mu NUMkam  <NAME>  lugal kurkur
+      L.E.
+      &#NUMNUM;upur  <NAME>  u lú
+
+<ENDTOKEN>       NUM/NUM mana kùbabbar NUM NUM.NUM.NUM. qéme NUM en dug šá kaš sag maluú du<sub>ten</sub>ga
+      giš ašàmeš šá mu NUMkam  <NAME>  lugal kurkur
+      šá šenumun zaqpu u pi<sub>four</sub> šulpu šá ina uru
+      šá gú i<sub>seven</sub> gúu<sub>eight</sub>a u šenumun gú i<sub>seven</sub> šappuuttu<sub>four</sub>
+      šá ina uru šá  <NAME>  a šá
+       <NAME>  u  <NAME>  a šá  <NAME> 
+      u en giš
+        gabbi šá ina igi  <NAME>  a šá
+       <NAME>  kùbabbar a’ NUM/NUM mana qéme
+        a<sub>four</sub> NUM NUM.NUM.NUM.
+      dannua’ NUM en dug šá kaš
+        sag giš ašàmeš mumeš šá mu NUMkam
+       <NAME>  u  <NAME>  ina šuII
+       <NAME>  a šá  <NAME> 
+        mahiru’
+      e&#NUMNUM;iru’
+      R.
+      ina igi  <NAME>   <NAME>   <NAME>  lú šá i<sub>seven</sub> d
+      lú  <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME> 
+        a šá
+       <NAME>  a šá  <NAME>   <NAME>  a šá
+       <NAME>   <NAME> 
+      lú  <NAME>  a šá  <NAME> 
+        KI  <tidu<sub>six</sub>
+      u<sub>four</sub> NUMkam mu NUMkam  <NAME>  lugal kurkur
+      R.
+      &#NUMNUM;upur  <NAME>  / u  <NAME> 
+      U.E.
+      na<sub>four</sub> kišib  <NAME> 
+      lú šá i<sub>seven</sub> d
+      na<sub>four</sub> kišib  <NAME>  / lú lú</sup>diku<sub>five</sub> šá i<sub>seven</sub> d
+      R.E.
+      &#NUMNUMNUM;un&#NUMNUMNUM;qu  <NAME>  / lú šá i<sub>seven</sub> d
+      L.E.
+      na<sub>four</sub> kišib /  <NAME>  a šá /  <NAME> 
+      L<UNK>.E.
+      na<sub>four</sub> kišib  <NAME>  a šá  <NAME> 
+      na<sub>four</sub> kišib  <NAME>  a šá  <NAME> 
+
+<ENDTOKEN>       NUM gur zúlumma šá  <NAME> 
+        a šá  <NAME> 
+      ina ugu  <NAME>  u  <NAME> 
+      ameš šá  <NAME>   <NAME> 
+        u  <NAME>  ameš šá
+       <NAME>  šá lú šá lú
+      dumu lú ina iti šá mu NUMkam
+       <NAME>  lugal zúlumma a’
+      NUM gur ina uru sìini’
+      ašàšúnu zaqpi u pi<sub>four</sub> šulpu é giš
+      šá ina uru maškanu zúlumma a’
+      NUM gur ina igi  <NAME>  lú šánamma
+      ana muhhi ul išalla&#NUMNUM; adi  <NAME> 
+      lú inni&#NUMNUM;iir NUM en
+        puut NUMi
+      ana e&#NUMNUM;ir našuú šá qéreb
+        i&#NUMNUM;&#NUMNUM;ir
+      R.NUM
+      zúlumma šám kùbabbar lubuuš u
+        únuut mè
+      šá ana a&#NUMNUMNUM;la&#NUMNUMNUM;ku
+        ana KI  ún      lú  <NAME>  šeš šá  <NAME>  lú
+        šá&#NUMNUMNUM;
+      &#NUMNUMNUM;dumu&#NUMNUMNUM;meš hisanu a šá  <NAME> 
+        u  <NAME> 
+      a šá  <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME> 
+      lú  <NAME>  a šá  <NAME>  KI  <tiab
+      u<sub>four</sub> NUMkam mu NUMkam  <NAME>  lugal kurkur
+      R.
+      &#NUMNUM;upuršúnu
+      U.E.
+      na<sub>four</sub> kišib  <NAME>  / šeš šá  <NAME>  / lú
+      na<sub>four</sub> kišib / I I</sup>mumu / a šá / I I</sup>enšúnu
+      L.E.
+      na<sub>four</sub> kišib /  <NAME>  / a šá  <NAME> 
+      R.
+      unqu /  <NAME>  a šá /  <NAME> 
+
+<ENDTOKEN>       NUM gur NUM.NUM.NUM. šebar NUM gur šegigba NUM
+        gur šezízàm
+      NUM NUM.NUM.NUM qa šegúgal NUM NUM.NUM.NUM qa šegútur hala ašàmeš gamri
+      šá mu NUMkam šá  <NAME> 
+        šá ina uru šá  <NAME> 
+      šá ina NUMNUM šá i<sub>seven</sub> d  <NAME> 
+      lú šá  <NAME>  a šá  <NAME> 
+      ina šuII &#NUMNUMNUM; <NAME>  a šá  <NAME> 
+      mahiir e&#NUMNUM;ir úšáazzaazma
+      itti  <NAME> 
+        šá šebar&#NUMNUMNUM;a’&#NUMNUMNUM; NUM gur NUM.NUM.NUM.
+      šegigbaa’ NUM gur šezízàm NUM
+        gur
+      šegúgala’ NUM NUM.NUM.NUM qa šegútura’ NUM NUM.NUM.NUM qa
+      ana  <NAME>  inaandin
+      R.NUM
+      lú  <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá
+       <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME> 
+      lú  <NAME>  a šá  <NAME>  KI  <tisig u<sub>four</sub> NUMkam
+      mu NUMkam  <NAME>  lugal kurkur
+      U.E.
+      &#NUMNUM;upur u unqu
+       <NAME> 
+      L.E.
+      na<sub>four</sub> kišib
+       <NAME> 
+      a šá  <NAME> 
+      na<sub>four</sub> kišib
+       <NAME> 
+      a šá  <NAME> 
+
+<ENDTOKEN>         NUM gur šebar NUM en dug kaš sag maluú du<sub>ten</sub>ga
+      NUM NUM.NUM.NUM. qéme NUM udu nitá giš
+        ašà gamri šá mu NUMkam
+       <NAME>  lugal šá šenumunmeš pi<sub>four</sub> šulpu
+      šá lú šá lú šá ina uru
+      šá ina šuII  <NAME>  lú šá lú šá lú
+      a šá  <NAME>  šá
+        ina igi  <NAME>  a šá  <NAME> 
+        šebar a’ NUM gur NUM en dug kas sag NUM udu nitá
+      NUM NUM.NUM.NUM. qéme giš
+        šenumunmeš mumeš šá mu NUMkam
+       <NAME>  lugal  <NAME>  a šá  <NAME> 
+      ina šuII  <NAME> 
+        a šá  <NAME> 
+      mahiir e&#NUMNUM;ir
+      R.NUM
+      lú  <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME>  lieu du c<UNK>ntraire
+       <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME> 
+       <NAME>  lú
+        šá é lú baatqa
+      a šá  <NAME> 
+      lú  <NAME>  a šá  <NAME>  KI  <tišu
+        u<sub>four</sub> NUMkam mu NUMkam  <NAME>  lugal kurkur
+      L.E.
+      na<sub>four</sub> kišib  <NAME> 
+      a šá&#NUMNUMNUM; <NAME> 
+      na<sub>four</sub> kišib  <NAME> 
+      R.E.
+      na<sub>four</sub> kišib
+       <NAME> 
+      a šá  <NAME> 
+      U.E.
+      na<sub>four</sub> kišib
+       <NAME> 
+      a šá  <NAME> 
+      na<sub>four</sub> kišib
+       <NAME>  a šá  <NAME> 
+      na<sub>four</sub> kišib
+       <NAME>  a šá  <NAME> 
+      L<UNK>.E.
+      na<sub>four</sub> kišib
+       <NAME> 
+      lú šá é lú batqa
+      a šá  <NAME> 
+      na<sub>four</sub> kišib  <NAME>  a šá
+       <NAME> 
+
+<ENDTOKEN>       NUM mana kùbabbar šá  <NAME>  a šá  <NAME> 
+      šá ina muhhi  <NAME>  a šá  <NAME>  u lú giš
+      u ašàšúnu é giš
+        zaqpu u pi<sub>four</sub> šulpu
+      šá ina uru šá gú i<sub>seven</sub> harripiqud
+      maškanu kullu kùbabbar a’ NUM mana  <NAME> 
+      a šá  <NAME> 
+        ina šuII  <NAME> 
+      a šá  <NAME> 
+        ana muhhi  <NAME> 
+      u lú giš
+        mahir e&#NUMNUM;ir mimma diku<sub>five</sub>
+      u ragamu šá  <NAME>  ana muhhi
+      ašà šá  <NAME>  ana u<sub>four</sub>mu &#NUMNUM;aatú ki  <NAME>  iaanu iaanu
+      ina u<sub>four</sub>mu diku<sub>five</sub> u
+        ragamu  <NAME> 
+      ana muhhi ašà mumeš úšabšuú NUM mana
+        kùbabbar
+      šá la diku<sub>five</sub> inamdin luú úìltì
+        šá rašutu
+      šá ina muhhi  <NAME>  u ašà é maškanu
+      ina é <NAME> 
+        telaa’ e&#NUMNUM;irtú
+      šii
+      R.
+      lú  <NAME>  a šá  <NAME>   <NAME> 
+      a šá  <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá
+       <NAME>   <NAME>  a šá  <NAME>   <NAME>  a šá
+       <NAME>   <NAME>  a šá  <NAME> 
+      lú  <NAME>  a šá  <NAME>  KI  <tiz<sub>two</sub>iz
+        u<sub>four</sub> NUMkam
+      mu NUMkam  <NAME>  lugal kurkur
+      R.
+      &#NUMNUM;upur  <NAME> 
+      na<sub>four</sub> kišib
+       <NAME> 
+      L.E.
+      na<sub>four</sub> kišib
+       <NAME> 
+      a šá  <NAME> 
+      na<sub>four</sub> kišib
+       <NAME>  a šá
+       <NAME> 
+      U.E.
+      na<sub>four</sub> kišib  <NAME> 
+      a šá  <NAME> 
+
+<ENDTOKEN>         NUM udu puhal NUM udu <UNK><UNK><UNK>
+        NUM udu sag NUM <UNK><UNK><UNK>
+        NUM udu lahrat dumumí muanna
+        NUM máš gal NUM máš gal mu NUMú
+      NUM máš dumu NUM ud<sub>five</sub> galti
+        alittú
+      NUM zéh dumumí muanna
+        pappap NUM me NUMšu NUM &#NUMNUM;ien babbarti
+        ge<sub>six</sub>ti galti u qallat
+        šá  <NAME>  a šá
+       <NAME>  lú šá  <NAME> 
+      ana giš ina igi  <NAME> 
+      lú lú šá  <NAME>  u<sub>four</sub> NUMkam 
+      šá iti šá mu
+        NUMkam epiš
+      nikkasu epuuš ittišú
+      amiir manu u paqdaásšú
+      &#NUMNUM;upur
+       <NAME> 
+      R.
+      š&#NUMNUM;r &#NUMNUM;wrphr
+
+<ENDTOKEN>       NUM gur zúlumma giš ašà šá
+      qutanu šá lú
+      šá  <NAME>  u  <NAME> 
+       <NAME>  <UNK><UNK><UNK>
+      lú šá  <NAME>  ina iti
+      zúlumma a’ NUM gur ina giš
+      šá  <NAME>  ina haa&#NUMNUM;&#NUMNUM;ari
+      tuhalla lìbbi mangaga u biltu<sub>four</sub> 
+      inaandin
+      R.NUM
+      lú
+       <NAME>  a šá  <NAME>   <NAME> 
+        a šá
+       <NAME>   <NAME>  a šá  <NAME>   <NAME> 
+      a šá  <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+      lú  <NAME>  a šá  <NAME>  KI  <ti<UNK> u<sub>four</sub> <UNK>kam
+      mu NUMkam  <NAME>  lugal kurkur
+      L.E.
+      &#NUMNUM;upur  <NAME> 
+      L<UNK>.E.
+      bl&#NUMNUM;&#NUMNUM;ršwš
+
+<ENDTOKEN>       NUM mana kùbabbar NUM en dug kaš NUM udu nitá NUM NUM.NUM.NUM. qéme u šebar giš
+       ašàmeš gamri šá mu NUMkam  <NAME>  lugal šá ina muhhi
+      šenumun zaqpu u pi<sub>four</sub> šulpu šá ina uru 
+      u ina uru
+        hurbatu<sub>four</sub> šá lú šá lugal šá ina igi  <NAME>  
+      šá ina šuII  <NAME> 
+        u  <NAME>  lú 
+      šá  <NAME>  šá ina igi  <NAME> 
+        a šá  <NAME> 
+      kùbabbar a’ NUMmana NUM en dug kaš sag NUM udu nitá NUM NUM.NUM.NUM. qéme u šebar 
+      giš ašàmeš mumeš šá mu NUMkam  <NAME>   <NAME> 
+      u  <NAME>  ina šuII  <NAME>   <NAME>   <NAME>  u  <NAME>  lú šá  <NAME> 
+      mahruu’ karruu’ úšáazzaazzuma  <NAME> 
+      u  <NAME>  itti  <NAME>  u  <NAME>  ana
+       <NAME>  u lú
+        inamdin
+      R.
+      lú  <NAME>  a šá  <NAME>   <NAME> 
+        a šá  <NAME> 
+       <NAME>  lú šá lú šá NUM a šá  <NAME>  
+       <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá  <NAME> 
+       <NAME>  a šá  <NAME>   <NAME>  a šá
+       <NAME>  tahsistu<sub>four</sub>
+        kùbabbar šá  <NAME>  u  <NAME> 
+      lú  <NAME> 
+        a šá  <NAME>  KI  <tigan
+        u<sub>four</sub> NUMkam
+      mu NUMkam  <NAME>  lugal kurkur
+      R.
+      &#NUMNUM;upur  <NAME> 
+      lú šá  <NAME> 
+      U.E.
+      unqu zabar
+       <NAME> 
+      lú šá  <NAME> 
+      na<sub>four</sub> kišib
+       <NAME> 
+      a šá  <NAME> 
+      L.E.
+      unqu anbar
+       <NAME> 
+      lú šá lú
+      šá NUM a šá  <NAME>  
+      L<UNK>.E.
+      na<sub>four</sub> kišib  <NAME> 
+       a šá  <NAME> 
+      na<sub>four</sub> kišib  <NAME> 
+      a šá  <NAME> 
+
+<ENDTOKEN> NUM/NUM ma.na kù.babbar babbarú
+šá ina NUM gn bitqa šá la g&igrave;nnu šá  <NAME> 
+ašú šá  <NAME>  a lú
+ina &lceil;muh&rceil;hi  <NAME>  ašú šá
+ <NAME>  &lceil;a lú
+šá iti ina muhhi NUM manée NUM &lceil;gn&rceil;
+ina &lceil;muhhišú i&rceil;rabbi
+Rest der V<UNK>rderseite verl<UNK>ren
+Rs. NUM<br />
+&lceil;I&rceil;  
+ <NAME>  ašú šá  <NAME> 
+a  <NAME>   <NAME>  &lceil;ašú šá&rceil;
+ <NAME>  a  <NAME> 
+eine Zeile frei
+lú  <NAME>  ašú šá  <NAME> 
+ <NAME>  KI  it<ssub>
+ud.NUM.kam mu.NUM.kam
+Rd.
+ <NAME>  lugal ek
+u kur.kur
+
+<ENDTOKEN>  Rasur zú.lum.ma šá
+šáanni dumu šá
+ &lceil; <NAME> 
+Rest der V<UNK>rderseite verl<UNK>ren
+Rs. NUM
+ <NAME>  DIŠ  dumu šá  <NAME> 
+a lú &uuml;ber Rasur KI 
+
+iti.<UNK> ud.NUM.kam mu.NUM.kam
+Rd.
+ <NAME>  lugal Kku
+<ENDTOKEN> NUM gur NUM pi NUM bán &lceil;še&rceil;.bar &lceil;ù&rceil; NUM pi NUM bán gig.ba
+šá m.d dumu.msu
+šá  <NAME>  a d
+ina muhhi  <NAME>  &lceil;ašú šá&rceil;
+ <NAME>  a  <NAME> 
+ina iti.kin še.bar &lceil;a<sub>four</sub>&rceil; NUM gur NUM pi &lceil;NUM bán&rceil;
+&lceil;ù gig&rceil;.ba &lceil;a<sub>four</sub>&rceil; NUM pi NUM bán
+Rd.
+inamdin elat NUM
+ú&igrave;lt&igrave; igitu<sub>four</sub> šá éš.g&agrave;ršú
+Rs.
+šá ina muhhi&lceil;šú&rceil; <UNK>
+lú  <NAME> 
+ašú šá  <NAME>  a lú
+ <NAME>  </sup>ašú šá  <NAME>  a lú
+ <NAME>  ašú šá  <NAME> 
+a  <NAME>  lú  <NAME> 
+ašú šá  <NAME>  </sup>a lú
+ KI  i<ssub> ud.NUM.kam
+mu.NUM.kam  <NAME> 
+Rd.
+lugal eki  </sup>u kur.kur
+
+<ENDTOKEN> NUM gur zú.lum.ma pad.hi.ameš
+šá lú &lceil;lú
+ù lú é.gal šá é &lceil;ha&rceil;ree
+šá šuII  <NAME>  lú dumu šá
+ <NAME>  ina muh&lceil;hi&rceil;  <NAME> 
+dumu šá  <NAME>  a lú
+ud.NUM.kam šá iti.ne mu.NUM NUM.kam
+inamdin ina d u I I</sup>daarimuš
+lugal nunki  </sup>u kur.kur  <NAME> 
+Rd.
+itteme kii adii ina adannia
+Rs.
+ana  <NAME>  eṭeri
+eine Zeile frei
+lú  <NAME>  dumu šá  <NAME> 
+&lceil; <NAME>  dumu šá  <NAME> 
+ <NAME>  dumu šá  <NAME> 
+ <NAME>  dumu šá  <NAME> 
+ <NAME>  dumu šá  <NAME> 
+eine Zeile frei
+ <NAME>  l dumu šá  <NAME> 
+a lú KI  itid.mu.NUM.kam  <NAME> 
+lugal tin.tirki  </sup>u kur.kur
+
+<ENDTOKEN> NUM gn kù.babbar babbarú  </sup>ina
+ú&igrave;lt&igrave;&lceil;šú&rceil;  <NAME> 
+ašú šá  <NAME>  ina šuII
+ <NAME>  ašú šá
+ <NAME>  a lú
+mahiir elat
+gd.da šá NUM/NUM NUM gn kù.babbar
+babbarú
+Rs.
+lú  <NAME> 
+ašú šá  <NAME> 
+a lú I</sup>mud
+ašú šá  <NAME>  a lú
+ <NAME>  ašú šá
+ <NAME>  lú  <NAME> 
+ašú šá  <NAME> 
+ KI  in am
+mu.NUM.kam  <NAME> 
+Rd.
+lugal eki  </sup>u kur.kur
+
+<ENDTOKEN>  <NAME>  a &lceil;lú d
+ina &lceil;iti&rceil;.apin NUM gur &lceil;zú&rceil;.lum.ma
+ina &lceil;muhhi d&rceil; lú inamdin
+epuš ng.ka<sub>nine</sub>šúnu &lceil;it&rceil;ti NUM
+ahameš qa&lceil;tu&rceil;ú ú&igrave;lt&igrave;meš
+igimeš šá zú.lum.ma šá  <NAME> 
+šá ina muhhi  <NAME>  e&lceil;ṭer&rceil;a&rsqu<UNK>;
+Rd. <br />
+šina zú.lum.ma reehtú
+ú&igrave;lt&igrave;meš igitú šá ina igi  <NAME> 
+Rs. <br />
+lú  <NAME>  a&lceil;šú&rceil; šá  <NAME> 
+a  <NAME>   <NAME>  ašú &lceil;šá&rceil;
+ <NAME>  a I I</sup>suhaa&lceil;a&rceil;  <NAME> 
+&lceil;ašú&rceil; šá  <NAME>  a  <NAME>  lú umbisag PN
+ašú šá  <NAME>  a lú  <NAME> 
+NUM <br />
+i kii a&lceil;na&rceil;   
+<UNK> &lceil;gur&rceil; zú.lum.ma  
+    dumu šá    
+Rest der R&uuml;ckseite verl<UNK>ren
+l. Rd.
+ašú šá  <NAME>  
+iddin &lceil;<UNK>&rceil;  <br />
+
+<ENDTOKEN> NUM/NUM gn kù.babbar ina &lceil;ú&rceil;&igrave;lt&igrave; šá NUM NUM/NUM ma.na kù.babbar
+šá m dumu.m.a.ni šá  <NAME> 
+a lú </sup>u m.d dumu.mišú
+šá ina muhhi  <NAME>  ašú šá  <NAME> 
+a  <NAME>  m ina šuII
+ <NAME>  &lceil;mah&rceil; &lceil;e&rceil;lat ur<sub>five</sub>.ra
+šá <UNK> kù.babbar šá &lceil;ultu iti&rceil;.du<sub>six</sub>
+mu.<UNK>.kam a&lceil;di iti.gu<sub>four</sub> mu&rceil;.NUM.kam
+šá ina muhhi  <NAME> 
+šá la mahrat NUMen
+iltequú
+Rs.
+lú I</sup>aa ašú šá  <NAME> 
+&lceil;a&rceil;  <NAME>  Id</sup>utusu ašú šá
+&lceil; <NAME>  a lú
+&lceil; <NAME>  ašú šá  <NAME>  a lú
+&lceil;lú  <NAME>  ašú šá  <NAME> 
+a lú lú</sup>sangaakadki  KI  iti.sig<</ud.NUM.kam mu.NUM.kam I I</sup>darimuš
+Rd.
+lugal Kku
+<ENDTOKEN> <UNK> <UNK> <UNK> &lceil;<UNK> <UNK> <UNK>&rceil;        
+lú meš lú.giš šá  <NAME>  <br />
+< 		@page  margin: NUMcm  		P  marginb<UNK>tt<UNK>m: NUM.NUMcm  >
+<p style="marginb<UNK>tt<UNK>m: NUMcm;">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</p>
+NUM/NUM ma.na &lceil;kù.babbar babbar&rceil;ú šá ina NUM gn bitqa
+šá la g&igrave;nnu <UNK> <UNK> <UNK> <UNK>  <NAME>  dumu    
+Rest der V<UNK>rderseite verl<UNK>ren
+Rs. NUM
+ <NAME>  i <UNK> <UNK> <UNK> <UNK>&rceil;              
+kù.babbar a<sub>four</sub> našuú kù.babbar šám  
+<UNK> ú&igrave;lt&igrave; šá zú.lum.ma <UNK> <UNK> hi    
+Spuren; Rest der R&uuml;ckseite verl<UNK>ren
+l. Rd.
+     da      
+
+<ENDTOKEN> zú.lum.ma buru<sub>fourteen</sub> &lceil;a.š&agrave;&rceil; šá  <NAME> 
+m šá ana giš &uuml;ber andere Zeichen 
+gur NUM pi  <NAME> 
+m
+ &lceil;<UNK>&rceil; 
+Rest der V<UNK>rderseite verl<UNK>ren
+Rs. NUM
+ &lceil; <NAME>  
+ &lceil;<UNK>&rceil; I I</sup>šullumaa
+m NUM gur 
+NUM pi lú
+Rd.
+gur NUM pi NUM bán ešruú 
+ NUM gur šá  <NAME>  a 
+
+<ENDTOKEN> nu ù rehi
+iti.gu<sub>four</sub> mu.NUM.kam
+tadinnu
+Rd.
+ &lceil;igi&rceil;tu<sub>four</sub> šá
+Rs.
+t&igrave; šá
+ <NAME> 
+ šá
+ &lceil;<UNK>&rceil;  <NAME> 
+Rest verl<UNK>ren
+
+<ENDTOKEN> &lceil;<UNK> <UNK>&rceil; 
+mahiir &lceil;<UNK>&rceil; 
+ina d d u  <NAME> 
+lugal tin.tirki  </sup>u kur.kur
+ana I&lceil;<UNK>&rceil; 
+Rd.
+kii ú
+šá ina muhhi 
+la AH qa 
+mumeš te
+ú&igrave;lt&igrave; &lceil;<UNK>&rceil; 
+&lceil;<UNK> <UNK>&rceil; d 
+Rest der R&uuml;ckseite verl<UNK>ren
+l. Rd.
+ <NAME> 
+lugal tin.tirki  </sup>u kur.kur
+
+<ENDTOKEN> &lceil;<UNK> <UNK> u<sub>four</sub>mumeš <UNK>&rceil; <UNK> &lceil;<UNK>&rceil; lú
+pani d d sihirtu<sub>four</sub> ina
+é.babbar.ra u&uuml;ber Rasur é d KI 
+
+šá  <NAME>  ašú šá  <NAME> 
+a I.lú ana epiššáannuútu
+Rs.
+ana  <NAME>  ašú šá I I</sup>enšúnu
+iddin puut la šakkanna baṭla
+u bu&lceil;un&rceil;nuú šá naptanu  <NAME> 
+Rest der R&uuml;ckseite verl<UNK>ren
+
+<ENDTOKEN> im  <NAME>   <NAME>  u
+ <NAME>  ana
+ <NAME>  šá muhhi ešruú d
+u d ana šešia
+likrubu NUM gur &lceil;zú&rceil;.lum.ma
+sattuk l DIŠ pani d
+ù <UNK> gur zú.lum.ma ina pap&lceil;pa&rceil;sušú
+šá <UNK> <UNK> <UNK> <UNK> <UNK> ud
+Rs. <br />
+<UNK> <UNK> <UNK> <UNK> <UNK> pappasu šá
+ <NAME>  ù šešmeš a&lceil;na&rceil;  <NAME> 
+u šešmeš idin iti.gu<sub>four</sub> ud.NUM.kam
+mu.NUM.kam I I</sup>dari&rsqu<UNK>;muš lugal KI 
+
+u kur.kur ina qbi šá lú KI 
+
+niiltapparka
+drei unkenntliche Siegelabdr&uuml;cke
+
+<ENDTOKEN> &lceil; <NAME>  a&rceil;šú šá PN &lceil;a&rceil; <UNK> <UNK> <UNK> <UNK><br />
+ana NUM ma.na NUM  <UNK> gn kù.babbar babbarú &lceil;<UNK>&rceil; <UNK> <UNK> <UNK>
+&lceil;a&rceil;na  <NAME>  ašú šá  <NAME> 
+a lú lú</sup>sangad iddin elat ú&igrave;lt&igrave; šá NUM/NUM ma.na kù.babbar
+re&lceil;eh&rceil;tu<sub>four</sub> šám lúuttú šá ina muhhišú i&rsqu<UNK>;ilu
+&lceil;kù.babbar&rceil; a<sub>four</sub> NUM ma.na NUM <UNK> gn reehtu<sub>four</sub> šám lúut&lceil;tú&rceil;
+ <NAME>  ina šuII I I</sup>&lceil;d e&lceil;ṭer&rceil;
+       d &lceil;<UNK>&rceil; kii úterri
+     ana d d</sup>enremaanni itta&lceil;din&rceil;
+            &lceil;šá&rceil; lúuttú <UNK> <UNK>
+            &lsqu<UNK>; a<sub>four</sub> <UNK> <UNK> <UNK>
+Rs.
+<UNK> <UNK> &lceil;<UNK>&rceil;   ašú šá  <NAME>  &lceil;<UNK> <UNK>&rceil; <UNK> <UNK>
+     ašú šá  <NAME>  <UNK> <UNK>meš
+a I I</sup>&lceil;en&rceil;eṭ&egrave;ri Id Id</sup>bu&lceil;neneibni&rceil; ašú šá
+ <NAME>  <UNK> <UNK> <UNK> <UNK> I I</sup>&lceil;d &lceil;ašú&rceil;
+šá  <NAME>  a lú lú</sup>PA.ŠEk Id</sup>ensumna
+&lceil;ašú šá&rceil; Id Id</sup>&lceil;en&rceil;numunibni a lú
+ <NAME>  ašú šá Id Id</sup>utukarir a lú
+<UNK> <UNK> <UNK> &lceil;mu&rceil; ašú šá  <NAME>  &lceil;a I I</sup><UNK> <UNK>&rceil; <UNK> <UNK> &lceil;<UNK>&rceil; <UNK> <UNK>
+<UNK> <UNK> <UNK> pab ašú šá  <NAME>  <UNK>&rceil; <UNK> <UNK> <UNK> &lceil;<UNK> <UNK>&rceil; <UNK> <UNK>
+ <NAME>  dub.sar ašú šá I I</sup>remut a I I</sup>eṭ&egrave;ru
+<UNK> <UNK> <UNK> <UNK> <UNK> &lceil;<UNK> <UNK> <UNK>&rceil; <UNK> <UNK> mu.NUM.kam
+Rest der R&uuml;ckseite verl<UNK>ren
+
+<ENDTOKEN> ud.NUM.kam ud.NUM.kam ud.NUM.kam ud.NUM.kam šá iti.bára.KAM
+ud.NUM.kam ud.NUM.kam ud.NUM.kam ud.NUM.kam šá iti.gu<sub>four</sub>.KAM
+ud.NUM.kam ud.NUM.kam ud.&lceil;NUM&rceil;.kam ud.NUM.kam šá iti.sig<sub>four</sub>.KAM
+ud.NUM.kam ud.NUM.kam ud.NUM.kam šá iti.šu ud.NUM.kam ud.NUM.kam
+šá &lceil;iti.ne&rceil; ud.NUM.kam ud.NUM.kam šá iti.kin.KAM ud.NUM.kam ud.NUM.kam
+šá &lceil;iti&rceil;.du<sub>six</sub> ud.&lceil;NUM&rceil;.kam ud.NUM.kam mišil u<sub>four</sub>mu šá iti.apin.KAM
+ud.NUM.kam ud.&lceil;NUM.kam šá&rceil; iti.gan ud.NUM.kam ud.NUM.kam šá iti.ab
+ud.NUM.kam ud.NUM.&lceil;kam&rceil; šá iti.zz ud.NUM.kam ud.NUM.kam mišil u<sub>four</sub>mu šá iti.&lceil;še&rceil;
+pab NUMta ud.NUM.kammeš giš.šub.ba lú ina ud.NUM.kam egirtu<sub>four</sub>
+itiussu ina é.babbar.ra é d šá KI  ein raesen
+NUMta u<sub>four</sub>mu mišil u<sub>four</sub>mu sellee samutu šá ud.NUM.kam ud.NUM.kam NUM/NUM &lceil;ud.NUM&rceil; NUM
+šá iti.bára &lceil;NUMen u<sub>four</sub>&lceil;mu&rceil; mišil u<sub>four</sub>&lceil;mu&rceil; sellee samuútu šá
+ud.<UNK> NUM.kam &lceil;ù&rceil; mišil u<sub>four</sub>mu šá ud.&lceil;NUM&rceil;.kam šá šeeri &uuml;ber Rasur ù
+<UNK> <UNK> u<sub>four</sub>mu šá iti.gu<sub>four</sub> pani d d&uuml;ber Rasura&lceil;a&rceil; sihi&lceil;ir&rceil;tu<sub>four</sub>
+d KI  ù <ssup>inanna gašan KI  šá ina itiilše.kin.tar&rceil;
+mu.sag.nam.lugal.la  <NAME>  lugal
+Rd.
+ <NAME>  dumu šá  <NAME>  a lú lú</sup>sangad
+ina šuII Id Id</sup>agúṣuršú u Id Id</sup>utušešmeš IBirši dumumeš šá
+ <NAME>  a lú ana k&agrave;ssap ana šám
+Rs.
+gamrutu imhuru árki Id Id</sup>utušešmeš ina &lceil;iti&rceil;.du
+mu.<UNK>.kam I I</sup>dari&rsqu<UNK>;muš lugal Kgakur ana &uuml;ber Rasur muhhi
+u<sub>four</sub>mumeš u sellee giš.šub.ba šumat&igrave; lú
+ana  <NAME>  irguum umma giš.šub.ba mut&igrave; šá
+ <NAME>  dumu lú šá Id Id</sup>&lceil;utu&rceil;kaṣir adúa egirsu
+ilquú &lceil;šina&rceil;  <NAME>  &lceil;na ki.lam šá giš.šub.ba &lceil;mu&rceil;t&igrave;
+ina šuII  <NAME>  u Id Id</sup>utušešm ana k&agrave;ssap imhurru
+ù šáṭaru šá giš.šub.ba mut&igrave; ár&lceil;ki&rceil; na ki.lam ana e&lceil;pišnu&rceil;tu
+ana Id Id</sup>utušešmeš &lceil;id&rceil;dinnu ina mahar lú uru ana
+ <NAME>  úkallimsu na ki.lam u šáṭaru ina mahar
+lú uru ištasuúma  <NAME>  na ki.lam u / šáṭaru šá epiššúnutu
+ <NAME>  ina muh&rceil;hi giš.šub.ba mut&igrave; lú lú</sup>muútu la &lceil;ir&rceil;ši Id Id</sup>utušešmeš ana ugu ramnišú
+<UNK> <UNK> <UNK> ni idur&uuml;ber Rasurruma giš.šub.ba mut&igrave; ina igi Id Id</sup>utunaṣir úmašš&igrave;r ina muhhi mu
+<p> <NAME>  ina migir l&igrave;bbišú reemu ana Id Id</sup>utušešmeš ir&lceil;šúma&rceil; am Rand: šá  <NAME> 
+&lceil;ir&rceil;šú NUM ma.na NUM gn kù.babbar babbarú elat kù.babbar igi&lceil;ú šá na ki.lam ana
+ <NAME>  iddin giš.šub.ba mut&igrave; šá Id Id</sup>utunaṣir šuú
+lú  <NAME>  dumu šá  <NAME>  a I I</sup>dad
+Rd.
+ <NAME>  dumu šá  <NAME>  a lú  <NAME>  dumu šá  </sup> <NAME> 
+ <NAME>  dumu šá  <NAME>  a I I</sup>&igrave;rgir<sub>four</sub>.kù  <NAME>  dumu šá  </sup> <NAME> 
+a I I</sup>maštukku I I</sup>nidinit dumu šá  <NAME>  a lú  <NAME> 
+dumu šá  </sup> <NAME>  &lceil; <NAME>  dumu šá  </sup> <NAME> 
+              a lú  <NAME>  </sup>dumu šá
+l. Rd.
+              &lceil;<UNK>&rceil; I I</sup>šaddinnu dumu šá  <NAME> 
+a <UNK> <UNK> <UNK>  <NAME>  </sup></str<UNK>ng>dub.sar dumu šá  <NAME>  a
+lú sipparki  </sup>iti.du ud.NUM.kam
+mu.<UNK>.kam  <NAME>  lugal KI  lugr.
+<ENDTOKEN>   Face c<UNK>mplètement brûlée 
+   <UNK> <UNK> <UNK>  buru<sub>fifteen</sub> mala ina lìb 
+  ippuušʾu šalšú hala  <NAME>  ileqqé 
+  ta iti kin mu NUMkam šenumun ina igišúnu 
+  NUM entaàm tiú 
+  lú mukinné  <NAME>  ašú šá  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+   <NAME>  sic 
+   <NAME>  lúumbisag ašú šá  <NAME>  
+  ká surru iti kin u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal kurkur 
+
+<ENDTOKEN>   NUM gur šebar giš ašà šá šenumun 
+  šá garin nuuhšánitu<sub>four</sub> šá mu NUMkam 
+   <NAME>  lugal 
+   <NAME>  lú ìr šá  <NAME>  
+  ina naášpirtu<sub>four</sub> šá  <NAME>  
+  ina šuII  <NAME>  lúìr šá  <NAME>  
+  mahiir šebar a<sub>four</sub> NUM gur 
+   <NAME>  ki  <NAME>  
+  úšáazzuma ana  <NAME>  inamdin 
+  lú mukinnu  <NAME>  ašú šá 
+   <NAME>   <NAME>  ašú šá 
+   <NAME>   <NAME>  ašú šá  <NAME>  
+   <NAME>  dubsar ašú šá  <NAME>  
+  KI  it u</sub> NUMkam mu NUMkam 
+   <NAME>  lugal kurkur 
+
+<ENDTOKEN>   úìltì šá šegišì šá  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  ina ugu 
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>  iʾilu NUM gur šegišì 
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>  ina naášpirtu<sub>four</sub> 
+  šá  <NAME>  ina šuII f 
+  dam  <NAME>  u  <NAME>   
+  lú qalla šá  <NAME>  mahiir 
+  šegišì šá úìltì šá  <NAME>  
+  ina ugu  <NAME>  iʾilu 
+  lú mukin<sub>seven</sub>  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>  lú umbisag  <NAME>  
+  ašú šá  <NAME>  KI  
+  iti še u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal kurkur 
+
+<ENDTOKEN>    <BRK> amelutti ù údee é 
+  šá  <NAME>  ašú šá  <NAME>  dumu  <NAME>  
+  itti fd dumumíšú ana nudunnuú 
+  ana  <NAME>  dumušú šá  <NAME>  
+  a  <NAME>  iddinnu ù f ahati 
+   <NAME>  <UNK> gur šenumun zaqpu ù NUMta ameluttu<sub>four</sub> 
+  ana fd dumumí šeššú ana 
+  u<sub>four</sub>mu ṣaatu iddinu árku nudunnuú 
+   <BRK>  ana  <NAME>  
+   <BRK>  NUMta ameluttu<sub>four</sub> 
+   <BRK>  nudunnuú 
+   <BRK> ina šuII  <NAME>  eṭiir 
+   <BRK>  
+  lú mukinnu  <NAME>  dumu lú kaniku ká 
+   <NAME>  dumu  <NAME>  
+   <NAME>  dumu lú šá munhášú 
+   <NAME>  dumu lú kaniku ká 
+   <NAME>  dubsar dumu lú adgub<sub>five</sub> 
+   <NAME>  dubsar dumu  <NAME>  
+  KI  iti si>NUM u<sub>four</sub> NUMkam mu NUMkam  <NAME>  
+  lugal KI  lugal r    sceau na<sub>four</sub>kišib /  <NAME>  / dubsar 
+
+<ENDTOKEN>   úìltì šá NUM mana kùbabbar érasure 
+  šá  <NAME>  ašú šá  <NAME>  
+  a  <NAME>  šá ina muhhi  <NAME>  
+  a  <NAME>  u  <NAME>  ašú šá 
+   <NAME>  eliʾi 
+   <NAME>  kùbabbar aʾ NUM mana 
+  ina šuII  <NAME>  eṭir 
+   <NAME>  ina amatišú 
+  kùbabbar aʾ NUM mana lapanišúnu inaáššáamma 
+  ana  <NAME>  inamdin 
+  puut šipìr šá kùbabbar aʾ NUM mana 
+   <NAME>  naši elat úìltì igitu<sub>four</sub> 
+  lú mukinnu  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  lú umbisag 
+  ašú šá  <NAME>  a  <NAME>  
+  KI  it u</sub> NUMkam 
+  mu NUMkam  <NAME>  
+  lugal KI  luur
+<ENDTOKEN>   NUM mana kùbabbar šá  <NAME>  ašú šá 
+   <NAME>  a  <NAME>  ina muhhi 
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>  ù  <NAME>  
+  ašú šá  <NAME>  a lúd  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  šá iti ina muhhi NUM manée NUM gín kùbabbar 
+  ina muhhišúnu irabbi NUM en puut NUMú 
+  našuu šá qerbi kùbabbar a<sub>four</sub> NUM mana 
+  iṭṭer elat úìltìmeš 
+  šá ina muhhi  <NAME>  
+  ù  <NAME>  šá hubullu<sub>four</sub> 
+  irabbaʾa lú mukinnu  <NAME>  
+  ašú šá  <NAME>  a lú nagar 
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>  u lú umbisag 
+   <NAME>  ašú šá  <NAME>  
+  a  <NAME>  KI  it 
+  u<sub>four</sub> NUMkam mu sag nam lugalla 
+   <NAME>  lugal KI  luur
+<ENDTOKEN>   é šá da é d šá  <NAME>  
+  ašú šá  <NAME>  a  <NAME>  ana idi é 
+  adi NUM ta muannameš ana muanna 
+  NUM mana NUM gín kùbabbar ana  <NAME>  
+  ašú šá  <NAME>  a lú bahar<sub>two</sub> 
+  iddin ahi kùbabbar ina reeš mu inamdin 
+  reheet kùbabbar ina reeš muanna inamdin 
+  úru išáannu batqu šá asurruú 
+  iṣabbat iti bár iti gan iti še 
+  NUM gi sillee šá tabilu 
+  inamdin 
+  ultu u<sub>four</sub> NUMkam šá iti kin šá 
+  mu NUMkam  <NAME>  é ina igi  <NAME>   <UNK> <UNK> <UNK>  
+  NUM gín kùbabbar  <NAME>  idi éšú 
+  reeš mušú mahiir nabalkáttanu 
+  NUM mana kùbabbar inamdin ana la enée 
+  šáṭaru NUM enataàm ilquú 
+  lú mukinnu  <NAME>  ašú šá  <NAME>  
+  a  <NAME>   <NAME>  
+  ašú šá  <NAME>  a  <NAME>  
+  u lú umbisag  <NAME>  ašú šá  <NAME>  
+  a  <NAME>  KI  it 
+  u<sub>four</sub> NUMkam mu NUMkam 
+   <NAME>  lugal K  lugal kurkur 
+
+<ENDTOKEN> 
